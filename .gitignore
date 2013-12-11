@@ -1,0 +1,4 @@
+*.pyc
+bitbucket/
+*.pid
+output/

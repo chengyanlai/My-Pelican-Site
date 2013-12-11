@@ -1,0 +1,9 @@
+Title: "廚房筆記：2010 April 月報中斷改分篇宣言"
+Date: 2010-05-02 00:25:00
+Author: Yao-An Chan
+Category: Cooking
+Tags: 伙食很好的證據
+
+
+<div class='post'>
+<center><br /><table style="width:auto;"><tr><td><a href="http://picasaweb.google.com/lh/photo/7zSZzWjzp7_w50a0WJ6e4A?feat=embedwebsite"><img src="http://lh3.ggpht.com/_mvtDPM7iODU/S9DA8E-qn5I/AAAAAAAAG-Q/P0lyHXi-Af8/s400/YAN_8278.JPG" /></a></td></tr></table></center><br />並不是因為我懶惰，但我想要中斷廚房筆記的月報...<br /><br />Why?<br /><br />因為這樣我做過的菜從標題都看不出來啊！某天想要找蒜泥白肉的沾醬的調法，結果竟然要動用搜尋功能才找到。我自己都在自己的blog裡迷路，這不是很好笑嗎？本來我自己有保留另一份真正的廚房筆記電子檔在筆電裡，記錄了一些食譜跟心得，平常我是不會在我的blog找東西。但不久前小白掛掉了，包含了平常我用心的詳細家用花費記帳資料等也都在裡面，讓我有種實驗資料被毀滅的感覺，還好我現在是不用寫論文了，但那種失落感，就好像以前的努力都白費了（雖然說也不算什麼努力啦！），傷心了一陣後，加上找不到沾醬食譜的刺激，我開始覺得，乾脆分篇寫廚房的筆記吧！<br /><br />優點：<br /><ul><li>找起來比較快，想要用更好的整理法分類，blogger的標籤無法分階層，不喜歡。</li><li>寫起來比較快，一次一個月的我都要寫好久，貼圖貼到累死我了！</li><li>分享方便，長期在ptt潛水的我，最近比較浮出水面了，總不好分享落落長的月筆記吧！</li><li>筆記直接存檔，我就不用特別記在自己的電腦上了，預防哪天我的筆電又掛了。囧</li></ul>缺點：<br /><ul><li>Blog就真的被食譜淹沒了...？</li><li>應該不會？最近想寫寫讀書的筆記...</li></ul>不過其實我新菜也越作越少了，最近想要把重點放在好吃程度的提升。<br /><br />四月份做什麼新菜呢？<br />請等待我的重點分篇介紹吧！<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/_mvtDPM7iODU/S90oEng9ljI/AAAAAAAAHI8/enInWI0IlZM/s1600/Screen+shot+2010-05-02+at+12.20.35+AM.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/_mvtDPM7iODU/S90oEng9ljI/AAAAAAAAHI8/enInWI0IlZM/s320/Screen+shot+2010-05-02+at+12.20.35+AM.png" /></a></div><div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/_mvtDPM7iODU/S90oPe9ot7I/AAAAAAAAHJE/rpWPv79t61Y/s1600/Screen+shot+2010-05-02+at+12.20.50+AM.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/_mvtDPM7iODU/S90oPe9ot7I/AAAAAAAAHJE/rpWPv79t61Y/s320/Screen+shot+2010-05-02+at+12.20.50+AM.png" /></a></div>p.s.其實後來小白的硬碟有救回來，資料還在，真是可喜可賀！</div>

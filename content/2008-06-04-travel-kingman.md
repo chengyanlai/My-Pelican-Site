@@ -1,0 +1,17 @@
+Title: "離島遊"
+Date: 2008-06-04 10:21:00
+Author: Yao-An Chan
+Category: Travel
+Tags: 台灣旅行
+
+
+<div class='post'>
+藉著公務之便，公費到馬祖跟金門去走了一趟。<br /><span style="color: rgb(0, 0, 102); font-weight: bold;">==馬祖==</span><br />第一次坐小飛機，上機後很快就昏睡了。<br />到了馬祖，在地人帶我們繞了一下，天氣好的時候可以看到大陸唷！(但那天天氣不好)<br /><div style="text-align: center;"><a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506493188766498"><img src="http://lh6.ggpht.com/yaoanchan/SFaLCdvu-yI/AAAAAAAAAtk/7WOD9F7OVls/s288/DSC00381.JPG" /></a><br /></div>馬祖的房子很有特色，聽說有補助讓房子維持傳統的樣貌。用石頭蓋成，據說冬暖夏涼的屋頂，會用石頭壓著瓦片。<br /><div style="text-align: center;"><a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506770488572514"><img src="http://lh3.ggpht.com/yaoanchan/SFaLSmxKOmI/AAAAAAAAAuY/IsWwyeTU_dM/s288/DSC00388.JPG" /></a> <a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506727719354114"><img src="http://lh6.ggpht.com/yaoanchan/SFaLQHcLvwI/AAAAAAAAAuQ/zc-f4TT0qq8/s288/DSC00387.JPG" /></a><br /></div><br />第一次看到這麼茂盛的繡球花，這間好像是有名的店，但這次沒有機會去吃。<br /><div style="text-align: center;"><a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506615787561826"><img src="http://lh5.ggpht.com/yaoanchan/SFaLJmdkI2I/AAAAAAAAAuA/d9Jup-cg6ZI/s288/DSC00385.JPG" /></a> <a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506583164548594"><img src="http://lh5.ggpht.com/yaoanchan/SFaLHs7odfI/AAAAAAAAAt4/9wH02X2Fx60/s288/DSC00384.JPG" /></a><br /></div>馬祖的縣政府前面，是一片菜園，實在有很妙又很可愛的感覺。<br /><div style="text-align: center;"><a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506849715350898"><img src="http://lh5.ggpht.com/yaoanchan/SFaLXN6S7XI/AAAAAAAAAug/NIiEs8vetkg/s400/DSC00389.JPG" /></a><br /></div>這裡的名產很好買，戰利品有：<br /><ul><li>繼光餅（有芝麻的中國貝果）- 又Q又香，現場拿到的時候，放在包包，香到一直很想拿出來吃。</li></ul><ul><li>紅糟酥（紅色的沙其瑪）- 受到客戶好評，但我個人覺得有點油，減肥不宜。</li></ul><ul><li>紅糟（料理用）- 送人了，因為我不會煮，想想也沒有多愛吃紅糟，但是同事的媽媽很推。</li></ul><ul><li>XO辣蘿蔔醬（料理用）- 搭配蠔油炒麵超好吃！不過小小一匙就很辣囉！</li></ul><ul><li>國宴高粱酒（喝高興的）- 送人了，因為爸爸要金門的。：P</li></ul><br /><span style="color: rgb(0, 0, 102); font-weight: bold;">==金門==</span><br />不久後，被派去支援簡報，所以就來到了金門。<br />看到飛機旁邊的白雲高興了兩秒，一樣是上機沒多久就昏睡了。<br />很早就到了金門，這回來有做功課，沿路吃了很多美食：<br /><ul><li>壽記廣東粥 - 看到有人在blog說吃了這個，就再也不想吃其他的粥了，是有沒有這麼誇張，一定要去吃一下。         果然很好吃，而且金門的粥好像都沒有米粒，這就是所謂何不食肉糜的肉糜吧！XD喝起來就像是湯一樣，而且料多實在，可以當正餐吃，果然是會讓人想再去吃的美味。</li></ul><div style="text-align: center;"><a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506880620017586"><img src="http://lh5.ggpht.com/yaoanchan/SFaLZBCit7I/AAAAAAAAAuo/EeJB3h7QebE/s400/DSC00390.JPG" /></a><br /></div><br /><ul><li>三寶齋燒餅 - 一個甜的一個鹹的各12元，皮很酥，甜的餡有點像牛舌餅，但是又熱又軟好像還會流動，超好吃的！鹹的也不錯，但我個人喜歡甜的。：P</li></ul><div style="text-align: center;"><a href="http://picasaweb.google.com.tw/yaoanchan/97/photo#5212506920792630850"><img src="http://lh4.ggpht.com/yaoanchan/SFaLbWscJkI/AAAAAAAAAuw/JQfNsgBoKcI/s400/DSC00391.JPG" /></a><br /></div>吃以外，還買了名產。<br /><ul><li>砲彈做的菜刀當然是不可少的，剁刀跟菜刀一組，加送水果刀。</li></ul><ul><li>貢糖還有高粱牛肉乾，不知道好不好用的一條根貼布，買一片給媽媽試試看。</li></ul><ul><li>爸爸要的58度高粱，後來發現台灣也有賣，但是台灣一瓶要貴70塊，兩瓶就省了140。</li></ul><br />採購完去簡報（這才是正事），結束時委員還問我在專案裡扮演什麼角色，來客串的果然一下就被發現了。XD<br /><br />中午好像因為大雨關了機場，下午我們要回去時，已經是擠滿了人，等待候補到7點最後一班都沒有位置，就只好留宿了。住海福飯店，有無線網路，設備很好。隔天附的早餐中式也是廣東粥，是附近的店家，永春廣東粥，為了比較一下跟壽記的差異，我就早起去吃糜啦！果然沒有壽記好吃，料感覺有少一些，我想我以後還是要去吃壽記。<br /><br />說是以後，其實我明天就又要去了。XD</div>
+<h2>Comments</h2>
+<div class='comments'>
+<div class='comment'>
+<div class='author'>Jo Chen</div>
+<div class='content'>
+好好喔，帶我去，嗚嗚~~!!!<BR/>坐我後面的同事說馬祖是便宜的地中海，下次有機會你去看一下風景嘛~~</div>
+</div>
+</div>

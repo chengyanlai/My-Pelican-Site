@@ -1,0 +1,9 @@
+Title: "[Cook][食譜]吃不完馬鈴薯系列- 馬鈴薯沙拉、焗烤馬鈴薯"
+Date: 2009-10-07 15:28:00
+Author: Yao-An Chan
+Category: Cooking
+Tags: 伙食很好的證據
+
+
+<div class='post'>
+<table style="width: auto; text-align: left; margin-left: auto; margin-right: auto;"><tbody><tr><td><img src="http://lh6.ggpht.com/_mvtDPM7iODU/SsZwc8IQPHI/AAAAAAAAE2o/aT9X5yL2JMw/s400/DSC00469.JPG" /></td></tr></tbody></table><br />千變萬化的馬鈴薯泥續集。<br /><br /><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0"><span style="font-weight: bold;">材料：</span><br /><ol><li><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0">馬鈴薯</span></span></span></li><li>奶油<br /></li><li>牛奶<br /></li><li><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0"><span style="display: block;" class="PackedElements PackedElements-0">黑胡椒</span></span></span></span></li><li>鹽</li><li>白煮蛋--<br />可利用面紙、廚房用紙沾水放入電鍋，鋪在雞蛋下面，蒸到電鍋跳起就完成了。視紙上的水量多寡可決定蛋黃的熟度。還嫌不夠熟可以略敲雞蛋讓他有小裂痕再去蒸，但要小心裂痕太大蛋白會衝出來。<br /></li><li>小黃瓜</li><li>培根</li><li>玉米粒罐頭</li></ol><span style="font-weight: bold;">馬鈴薯沙拉作法：<br /></span></span></span></span></span><ol><li>材料1~5做成基本的馬鈴薯泥。</li><li>其他材料切丁跟馬鈴薯泥攪拌就完成了。<br />p.s.可以用冰淇淋挖球器做出可愛的圓形。<br /></li></ol><span style="font-weight: bold;">焗烤馬鈴薯作法：</span><br /><ol><li>同上完成馬鈴薯泥</li><li>裝盤灑上起司進烤箱烤到表面融化即可。<br />p.s.這個沒有圖</li></ol><span style="font-weight: bold;">檢討：</span><br />軟綿綿馬鈴薯泥是好吃的關鍵。</div>

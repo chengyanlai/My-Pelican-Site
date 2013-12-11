@@ -4,7 +4,6 @@ Author: Chen-Yen Lai
 Category: OSX
 Tags: Latex
 
-
 This is just convenient if you are using LaTeX and BibTex, also you have a lot of references.
 
 You need to pay for the Paper app, it only has OSX and Windows(WTF!) version, sorry.
@@ -16,14 +15,11 @@ Papers allow you to export your entire library to single file
 
 Next, you would need to put the file to the right PATH(It is painful in some way)
 
-	:::ruby
-
 ### Put bib to the right PATH
 I know nothing about Windows for these days. For OSX, I am using the [MacTex](http://www.tug.org/mactex/) distribution, and I figure it out that the right path is 
 
 	:::bash
     ${HOME}/Library/texmf/bibtex/bib/
-
 
 If the folder is not there, please create it! Then copy your file to that path. Remember you need to update your bibtex file every time you update your library(I mean when you are going to use .bib).
 
@@ -33,7 +29,6 @@ So, the only thing you need to do in `.tex` file is
 	:::bash
     \bibliographystyle{apsrev4-1}
     \bibliography{My_Ref}
-
 
 . This is just an example. Because I am using RevTex, so the style is `apsrev4-1`. Second line means you have a file called and located at `${HOME}/Library/texmf/bibtex/bib/My_Ref.bib`
 

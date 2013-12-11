@@ -29,7 +29,7 @@ SOCIAL = (('Chen-Yen\'s Facebook', 'http://www.facebook.com/chenyenlai'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 MD_EXTENSIONS = (['codehilite(css_class=highlight)','extra'])
 
@@ -48,6 +48,12 @@ TWITTER_URL = "https://twitter.com/chenyenlai"
 GITHUB_URL = "https://github.com/chengyanlai"
 FACEBOOK_URL = "https://www.facebook.com/chenyenlai"
 GOOGLEPLUS_URL = "https://plus.google.com/+ChenYenLai"
+
+
+# Following items are often useful when publishing
+
+DISQUS_SITENAME = "mypelicansite"
+GOOGLE_ANALYTICS = "UA-45866413-1"
 
 # For Plugins
 PLUGIN_PATH = '/Users/Shared/Git_repo/GitHub/my-blog/plugins'

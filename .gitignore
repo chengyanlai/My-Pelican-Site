@@ -1,4 +1,3 @@
 *.pyc
-bitbucket/
 *.pid
 output/

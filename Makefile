@@ -7,7 +7,7 @@ INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-PUBLISHDIR=$(BASEDIR)/bitbucket
+PUBLISHDIR=$(BASEDIR)/deploy
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -49,7 +49,7 @@ help:
 	@echo '   make s3_upload                   upload the web site via S3         '
 	@echo '   make cf_upload                   upload the web site via Cloud Files'
 	@echo '   make github                      upload the web site via gh-pages   '
-	@echo '   make bitbucket                   upload the web site via bitbucket  '
+	@echo '   make deploy                      update the web site to github page '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -107,8 +107,8 @@ github: publish
 	ghp-import $(OUTPUTDIR)
 	git push origin gh-pages
 
-bitbucket: publish
-	cd $(PUBLISHDIR) &&	rm -rf *html author blog category code feeds images pages tags theme tag
+deploy: publish
+	cd $(PUBLISHDIR) &&	rm -rf *html author blog category feeds pages tag theme
 	cp -rf $(OUTPUTDIR)/* $(PUBLISHDIR)/
 	cd $(PUBLISHDIR) &&	git add . -A
 	cd $(PUBLISHDIR) &&	git ci -m "Update site"

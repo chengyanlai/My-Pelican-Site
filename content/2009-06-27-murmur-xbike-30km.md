@@ -1,4 +1,4 @@
-Title: "x-bike 新紀錄 30km"
+Title: x-bike 新紀錄 30km
 Date: 2009-06-27 09:32:00
 Author: Yao-An Chan
 Tags: 內心小小獨白

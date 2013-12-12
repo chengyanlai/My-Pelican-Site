@@ -1,4 +1,4 @@
-Title: "[食譜] 麻婆豆腐的進化史"
+Title: [食譜] 麻婆豆腐的進化史
 Date: 2010-04-30 12:39:00
 Author: Yao-An Chan
 Category: Cooking

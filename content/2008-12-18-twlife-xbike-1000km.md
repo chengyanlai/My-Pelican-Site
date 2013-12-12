@@ -1,4 +1,4 @@
-Title: "x-bike 1000km"
+Title: x-bike 1000km
 Date: 2008-12-18 08:08:00
 Author: Yao-An Chan
 Category: Life@TW

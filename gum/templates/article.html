@@ -16,17 +16,18 @@
             </header>
             <footer class="post-info">
               <abbr class="published" title="{{ article.date.isoformat() }}">
-                {{ article.locale_date }}
+                <i class="icon-clock icon-medium"></i> {{ article.locale_date }}
               </abbr>
               {% if article.author %}
               <address class="vcard author">
-                By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
+                <i class="icon-feather icon-medium"></i> <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>
               </address>
               {% endif %}
             </footer><!-- /.post-info -->
             <div class="entry-content">
               {{ article.content }}
             </div><!-- /.entry-content -->
+            {% include 'include/like.html' %}
             {% if DISQUS_SITENAME %}
             <div class="comments">
               <h3>Comments</h3>

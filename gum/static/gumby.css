@@ -128,11 +128,46 @@ html, body {
   font-style: normal;
   font-weight: 400;
   src: url(fonts/icons/entypo.eot);
-  src: url("fonts/icons/entypo.eot?#iefix") format("ie9-skip-eot"), url("fonts/icons/entypo.woff") format("woff"), url("fonts/icons/entypo.ttf") format("truetype");
+  src: url("fonts/icons/entypo.eot?#iefix") format("ie9-skip-eot"), 
+       url("fonts/icons/entypo.woff") format("woff"), 
+       url("fonts/icons/entypo.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'alex_brushregular';
+    font-weight: normal;
+    font-style: normal;
+    src: url('fonts/alexbrush-regular-webfont.eot');
+    src: url('fonts/alexbrush-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/alexbrush-regular-webfont.woff') format('woff'),
+         url('fonts/alexbrush-regular-webfont.ttf') format('truetype'),
+         url('fonts/alexbrush-regular-webfont.svg#alex_brushregular') format('svg');
+}
+
+@font-face {
+    font-family: 'latobold';
+    font-weight: normal;
+    font-style: normal;
+    src: url('fonts/lato-bol-webfont.eot');
+    src: url('fonts/lato-bol-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/lato-bol-webfont.woff') format('woff'),
+         url('fonts/lato-bol-webfont.ttf') format('truetype'),
+         url('fonts/lato-bol-webfont.svg#latobold') format('svg');
+}
+
+@font-face {
+    font-family: 'new_ciclegordita_italic';
+    font-weight: normal;
+    font-style: normal;
+    src: url('fonts/new_cicle_gordita_italic-webfont.eot');
+    src: url('fonts/new_cicle_gordita_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/new_cicle_gordita_italic-webfont.woff') format('woff'),
+         url('fonts/new_cicle_gordita_italic-webfont.ttf') format('truetype'),
+         url('fonts/new_cicle_gordita_italic-webfont.svg#new_ciclegordita_italic') format('svg');
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Open Sans";
+  font-family: "latobold";
   font-weight: 300;
   color: #444444;
   text-rendering: optimizeLegibility;
@@ -150,23 +185,28 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   }
 }
 h1 {
+  font-family: 'alex_brushregular';
   font-size: 68px;
   font-size: 4.25rem;
 }
 h1.xlarge {
+  font-family: 'alex_brushregular';
   font-size: 110px;
   font-size: 6.875rem;
 }
 h1.xxlarge {
+  font-family: 'alex_brushregular';
   font-size: 126px;
   font-size: 7.875rem;
 }
 h1.absurd {
+  font-family: 'alex_brushregular';
   font-size: 177px;
   font-size: 11.0625rem;
 }
 
 h2 {
+  font-family: 'new_ciclegordita_italic';
   font-size: 42px;
   font-size: 2.625rem;
 }
@@ -177,6 +217,7 @@ h3 {
 }
 
 h4 {
+  font-family: 'new_ciclegordita_italic';
   font-size: 26px;
   font-size: 1.625rem;
 }
@@ -187,6 +228,7 @@ h5 {
 }
 
 h6 {
+  font-family: 'new_ciclegordita_italic';
   font-size: 16px;
   font-size: 1rem;
 }
@@ -2815,22 +2857,22 @@ i.icon-book-open:before {
 }
 
 .icon-book.icon-left a:before, .icon-book.icon-right a:after {
-  content: "ðŸ“•";
+  content: "\1F4D5";
   height: inherit;
 }
 
 i.icon-book:before {
-  content: "ðŸ“•";
+  content: "\1F4D5";
   height: inherit;
 }
 
 .icon-folder.icon-left a:before, .icon-folder.icon-right a:after {
-  content: "ðŸ“";
+  content: "\1F4E6";
   height: inherit;
 }
 
 i.icon-folder:before {
-  content: "ðŸ“";
+  content: "\1F4E6";
   height: inherit;
 }
 
@@ -3005,12 +3047,12 @@ i.icon-volume:before {
 }
 
 .icon-clock.icon-left a:before, .icon-clock.icon-right a:after {
-  content: "ðŸ•”";
+  content: "\1F554";
   height: inherit;
 }
 
 i.icon-clock:before {
-  content: "ðŸ•”";
+  content: "\1F554";
   height: inherit;
 }
 

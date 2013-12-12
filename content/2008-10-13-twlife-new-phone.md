@@ -1,4 +1,4 @@
-Title: "威寶電信"
+Title: 威寶電信
 Date: 2008-10-13 04:59:00
 Author: Yao-An Chan
 Category: Life@TW

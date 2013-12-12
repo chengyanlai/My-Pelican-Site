@@ -1,4 +1,4 @@
-Title: "[9w] 10/18 在真正的產檢之前"
+Title: [9w] 10/18 在真正的產檢之前
 Date: 2011-12-08 20:35:00
 Author: Yao-An Chan
 Category: Pregnancy

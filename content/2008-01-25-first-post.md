@@ -1,4 +1,4 @@
-Title: "賀開blog"
+Title: 賀開blog
 Date: 2008-01-25 02:53:00
 Author: Yao-An Chan
 Tags: 內心小小獨白

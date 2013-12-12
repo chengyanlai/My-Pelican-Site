@@ -1,4 +1,4 @@
-Title: "剪瀏海"
+Title: 剪瀏海
 Date: 2008-01-26 08:17:00
 Author: Yao-An Chan
 Category: Life@TW

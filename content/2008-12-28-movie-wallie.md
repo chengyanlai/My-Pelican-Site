@@ -1,4 +1,4 @@
-Title: "瓦力"
+Title: 瓦力
 Date: 2008-12-28 02:43:00
 Author: Yao-An Chan
 Category: Movie-Drama

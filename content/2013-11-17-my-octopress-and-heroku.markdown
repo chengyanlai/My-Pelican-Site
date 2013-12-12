@@ -1,4 +1,4 @@
-Title: "My Octopress and Heroku - 3"
+Title: My Octopress and Heroku - 3
 Date: 2013-11-17 15:14
 Author: Chen-Yen Lai
 Category: Blogging Engine  

@@ -1,4 +1,4 @@
-Title: "Happy Halloween"
+Title: Happy Halloween
 Date: 2012-11-04 23:42:00
 Author: Yao-An Chan
 Category: Kessler

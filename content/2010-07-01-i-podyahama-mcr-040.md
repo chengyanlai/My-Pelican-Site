@@ -1,4 +1,4 @@
-Title: "可愛小型i-pod音響系統：YAHAMA MCR-040"
+Title: 可愛小型i-pod音響系統：YAHAMA MCR-040
 Date: 2010-07-01 09:16:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

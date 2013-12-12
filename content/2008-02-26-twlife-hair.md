@@ -1,4 +1,4 @@
-Title: "直髮一家"
+Title: 直髮一家
 Date: 2008-02-26 06:30:00
 Author: Yao-An Chan
 Category: Life@TW

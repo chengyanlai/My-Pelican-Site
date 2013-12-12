@@ -1,4 +1,4 @@
-Title: "WIC"
+Title: WIC
 Date: 2012-01-18 16:00:00
 Author: Yao-An Chan
 Category: Pregnancy

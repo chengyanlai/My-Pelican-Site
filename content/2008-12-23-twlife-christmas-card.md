@@ -1,4 +1,4 @@
-Title: "Christmas Card"
+Title: Christmas Card
 Date: 2008-12-23 08:00:00
 Author: Yao-An Chan
 Category: Life@TW

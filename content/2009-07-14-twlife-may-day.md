@@ -1,4 +1,4 @@
-Title: "感謝五月天"
+Title: 感謝五月天
 Date: 2009-07-14 08:58:00
 Author: Yao-An Chan
 Category: Life@TW

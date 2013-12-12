@@ -1,4 +1,4 @@
-Title: "布尿布採買與開箱"
+Title: 布尿布採買與開箱
 Date: 2012-04-16 22:52:00
 Author: Yao-An Chan
 Category: Pregnancy

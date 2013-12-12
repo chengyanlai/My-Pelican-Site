@@ -1,4 +1,4 @@
-Title: "搬到新家，迎接新的一年。"
+Title: 搬到新家，迎接新的一年。
 Date: 2010-12-31 16:56:00
 Author: Yao-An Chan
 Category: Life@US

@@ -1,4 +1,4 @@
-Title: "[Cook]Pizza"
+Title: [Cook]Pizza
 Date: 2009-09-23 13:09:00
 Author: Yao-An Chan
 Category: Cooking

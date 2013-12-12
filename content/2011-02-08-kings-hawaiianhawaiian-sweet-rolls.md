@@ -1,4 +1,4 @@
-Title: "早餐的新歡- King's Hawaiian的Hawaiian Sweet Rolls"
+Title: 早餐的新歡- King's Hawaiian的Hawaiian Sweet Rolls
 Date: 2011-02-08 22:40:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

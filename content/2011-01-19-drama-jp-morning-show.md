@@ -1,4 +1,4 @@
-Title: "又想起了ゲゲゲの女房"
+Title: 又想起了ゲゲゲの女房
 Date: 2011-01-19 22:29:00
 Author: Yao-An Chan
 Category: Movie-Drama

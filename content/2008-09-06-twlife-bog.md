@@ -1,4 +1,4 @@
-Title: "波哥在新市開店了!"
+Title: 波哥在新市開店了!
 Date: 2008-09-06 19:44:00
 Author: Yao-An Chan
 Category: Life@TW

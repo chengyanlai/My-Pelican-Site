@@ -1,4 +1,4 @@
-Title: "第一隻機械錶"
+Title: 第一隻機械錶
 Date: 2008-09-07 04:30:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

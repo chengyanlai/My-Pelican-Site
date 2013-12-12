@@ -1,4 +1,4 @@
-Title: "我家上相的兔子"
+Title: 我家上相的兔子
 Date: 2008-03-25 06:06:00
 Author: Yao-An Chan
 Category: Life@TW

@@ -1,5 +1,5 @@
 Date: 2013-10-30 21:00  
-title: "OSX Folder Icon" 
+title: OSX Folder Icon
 Author: Chen-Yen Lai
 Category: Gimp
 

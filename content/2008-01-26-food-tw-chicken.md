@@ -1,4 +1,4 @@
-Title: "師大夜市"
+Title: 師大夜市
 Date: 2008-01-26 05:50:00
 Author: Yao-An Chan
 Category: Food 

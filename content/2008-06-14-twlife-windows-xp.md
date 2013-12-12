@@ -1,4 +1,4 @@
-Title: "回歸Windows XP"
+Title: 回歸Windows XP
 Date: 2008-06-14 11:13:00
 Author: Yao-An Chan
 Category: Life@TW

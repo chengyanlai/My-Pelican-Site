@@ -1,4 +1,4 @@
-Title: "婚紗照"
+Title: 婚紗照
 Date: 2009-02-28 07:55:00
 Author: Yao-An Chan
 Category: Life@TW

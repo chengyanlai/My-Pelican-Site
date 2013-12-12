@@ -1,4 +1,4 @@
-Title: "[食譜] 好吃不油的肉末茄子"
+Title: [食譜] 好吃不油的肉末茄子
 Date: 2012-05-03 13:00:00
 Author: Yao-An Chan
 Category: Cooking

@@ -1,4 +1,4 @@
-Title: "勉強します"
+Title: 勉強します
 Date: 2008-04-19 08:03:00
 Author: Yao-An Chan
 Category: Life@TW

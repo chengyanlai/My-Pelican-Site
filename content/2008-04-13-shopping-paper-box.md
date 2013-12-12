@@ -1,4 +1,4 @@
-Title: "彩遊館收納箱"
+Title: 彩遊館收納箱
 Date: 2008-04-13 09:36:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

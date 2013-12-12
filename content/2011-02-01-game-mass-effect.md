@@ -1,4 +1,4 @@
-Title: "好遊戲推薦：Mass Effect 質量效應系列"
+Title: 好遊戲推薦：Mass Effect 質量效應系列
 Date: 2011-02-01 15:40:00
 Author: Yao-An Chan
 Category: Games

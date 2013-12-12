@@ -1,4 +1,4 @@
-Title: "無雷-墨水心 赤壁二"
+Title: 無雷-墨水心 赤壁二
 Date: 2009-02-18 08:51:00
 Author: Yao-An Chan
 Category: Movie-Drama

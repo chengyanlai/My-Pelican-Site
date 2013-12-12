@@ -1,4 +1,4 @@
-Title: "New home."
+Title: New home.
 Date: 2009-09-17 20:31:00
 Author: Yao-An Chan
 Category: Life@US

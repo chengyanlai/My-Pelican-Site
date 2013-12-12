@@ -1,4 +1,4 @@
-Title: "過年小記(一)"
+Title: 過年小記(一)
 Date: 2008-02-14 08:03:00
 Author: Yao-An Chan
 Category: Life@TW

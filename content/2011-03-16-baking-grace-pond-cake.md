@@ -1,4 +1,4 @@
-Title: "Grace西點紅茶時間：香橙蛋糕"
+Title: Grace西點紅茶時間：香橙蛋糕
 Date: 2011-03-16 17:48:00
 Author: Yao-An Chan
 Category: Baking

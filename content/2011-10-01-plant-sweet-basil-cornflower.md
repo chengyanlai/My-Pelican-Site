@@ -1,4 +1,4 @@
-Title: "新盆栽 - Sweet Basil & Cornflower"
+Title: 新盆栽 - Sweet Basil & Cornflower
 Date: 2011-10-01 00:22:00
 Author: Yao-An Chan
 Tags: 我的綠手指

@@ -1,4 +1,4 @@
-Title: "2009 在美遊記：San Diego"
+Title: 2009 在美遊記：San Diego
 Date: 2010-01-13 23:53:00
 Author: Yao-An Chan
 Category: Travel

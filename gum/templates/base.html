@@ -37,6 +37,7 @@
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/gumby.css" />
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/style.css" />
         <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/pygment.css" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/custom.css" />
 
         <script src="{{ SITEURL }}/theme/js/libs/modernizr-2.6.2.min.js"></script>
 
@@ -82,7 +83,6 @@
              
               <ul class="columns">
                 <li><a href="{{ SITEURL }}">Home</a></li>
-
             {% for title, link in MENUITEMS %}
                 <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}
@@ -90,13 +90,16 @@
               {% for p in PAGES %}
                 <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
               {% endfor %}
-            {% else %}
-              {% if DISPLAY_CATEGORIES_ON_MENU %}
-                {% for cat, null in categories %}
-                  <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-                {% endfor %}
-              {% endif %}
             {% endif %}
+            {% if DISPLAY_CATEGORIES_ON_MENU %}
+                <li  class="dropdown"><a href="#">Categories</a></li>
+                <ul>
+                    {% for cat, null in categories %}
+                      <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+                <li><a href="{{ SITEURL }}/archives.html">Archives</a></li>
 
               </ul>
             </div>
@@ -116,13 +119,14 @@
           <div class="seven columns left-center">
 
                    <address id="about" class="vcard body">
-                    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
+                    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License
+                    <i class="icon-cc-nc icon-large"></i>{{ AOTHOR }}</a>
                     <br />
                     Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
                     which takes great advantage of <a href="http://python.org">Python</a>.
                     <br />
                     Based on the <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a> - 
-                    Free Domain Provider <a href="http://my.dot.tk/cgi-bin/amb/landing.dottk?nr=747808::13091085::1" target="_new">Dot.TK</a>
+                    Free Domain Provided by <a href="http://my.dot.tk/cgi-bin/amb/landing.dottk?nr=747808::13091085::1" target="_new">Dot.TK</a>
                     </address>
           </div>
 

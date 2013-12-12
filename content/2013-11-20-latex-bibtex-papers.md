@@ -1,4 +1,4 @@
-Title: "LaTeX and BibTeX from Papers"
+Title: LaTeX and BibTeX from Papers
 Date: 2013-11-21 16:14:35
 Author: Chen-Yen Lai
 Category: OSX

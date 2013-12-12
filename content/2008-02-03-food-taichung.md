@@ -1,4 +1,4 @@
-Title: "逢甲夜市"
+Title: 逢甲夜市
 Date: 2008-02-03 08:29:00
 Author: Yao-An Chan
 Category: Food 

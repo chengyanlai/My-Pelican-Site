@@ -1,4 +1,4 @@
-Title: "廚房筆記: 2010 February"
+Title: 廚房筆記: 2010 February
 Date: 2010-03-04 15:22:00
 Author: Yao-An Chan
 Category: Cooking

@@ -1,4 +1,4 @@
-Title: "科管所校友回娘家"
+Title: 科管所校友回娘家
 Date: 2008-05-03 09:25:00
 Author: Yao-An Chan
 Category: Life@TW

@@ -1,4 +1,4 @@
-Title: "[廚房新玩具] 很厲害小烤箱 Cuisinart® Convection/Broiler Toaster Oven"
+Title: [廚房新玩具] 很厲害小烤箱 Cuisinart® Convection/Broiler Toaster Oven
 Date: 2011-04-18 14:38:00
 Author: Yao-An Chan
 Category: Cooking

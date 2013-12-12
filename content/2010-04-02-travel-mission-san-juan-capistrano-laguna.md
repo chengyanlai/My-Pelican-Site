@@ -1,4 +1,4 @@
-Title: "2010春遊小記：Mission San Juan Capistrano & Laguna Beach"
+Title: 2010春遊小記：Mission San Juan Capistrano & Laguna Beach
 Date: 2010-04-02 14:47:00
 Author: Yao-An Chan
 Category: Travel

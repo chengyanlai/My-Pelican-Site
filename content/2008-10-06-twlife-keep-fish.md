@@ -1,4 +1,4 @@
-Title: "小水族箱pilot run 1"
+Title: 小水族箱pilot run 1
 Date: 2008-10-06 05:05:00
 Author: Yao-An Chan
 Category: Life@TW

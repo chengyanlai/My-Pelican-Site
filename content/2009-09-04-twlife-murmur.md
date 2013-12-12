@@ -1,4 +1,4 @@
-Title: "再見"
+Title: 再見
 Date: 2009-09-04 09:04:00
 Author: Yao-An Chan
 Category: Life@TW

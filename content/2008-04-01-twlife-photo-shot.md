@@ -1,4 +1,4 @@
-Title: "啟能中心拍照記"
+Title: 啟能中心拍照記
 Date: 2008-04-01 09:13:00
 Author: Yao-An Chan
 Category: Life@TW

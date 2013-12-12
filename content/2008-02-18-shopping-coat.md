@@ -1,4 +1,4 @@
-Title: "新外套與新鞋"
+Title: 新外套與新鞋
 Date: 2008-02-18 08:32:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

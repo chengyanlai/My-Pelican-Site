@@ -1,4 +1,4 @@
-Title: "2010 PCH CA-1 加州一號公路旅行 Day4: San Francisco"
+Title: 2010 PCH CA-1 加州一號公路旅行 Day4: San Francisco
 Date: 2010-10-20 15:04:00
 Author: Yao-An Chan
 Category: Travel

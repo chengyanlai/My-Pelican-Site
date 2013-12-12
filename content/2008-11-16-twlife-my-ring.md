@@ -1,4 +1,4 @@
-Title: "炫耀文？"
+Title: 炫耀文？
 Date: 2008-11-16 08:16:00
 Author: Yao-An Chan
 Category: Life@TW

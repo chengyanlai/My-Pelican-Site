@@ -1,4 +1,4 @@
-Title: "返鄉"
+Title: 返鄉
 Date: 2010-09-24 11:44:00
 Author: Yao-An Chan
 Category: Life@TW

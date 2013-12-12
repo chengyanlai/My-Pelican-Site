@@ -1,5 +1,5 @@
 Date: 2013-10-01 21:00  
-title: "Fusion Drive on OSX" 
+Title: Fusion Drive on OSX
 Author: Chen-Yen Lai
 Category: OSX
 Tags: Fusion

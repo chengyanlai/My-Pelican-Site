@@ -1,5 +1,5 @@
 Date: 2013-10-23 21:00  
-title: "OSX Mavericks bootable USB drive " 
+Title: OSX Mavericks bootable USB drive
 Author: Chen-Yen Lai
 Category: OSX
 

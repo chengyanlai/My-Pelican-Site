@@ -1,4 +1,4 @@
-Title: "今日的破杯與海賊王"
+Title: 今日的破杯與海賊王
 Date: 2008-03-13 09:02:00
 Author: Yao-An Chan
 Category: Life@TW

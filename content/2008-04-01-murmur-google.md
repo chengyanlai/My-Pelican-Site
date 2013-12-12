@@ -1,4 +1,4 @@
-Title: "Google的陰謀"
+Title: Google的陰謀
 Date: 2008-04-01 09:11:00
 Author: Yao-An Chan
 Tags: 內心小小獨白

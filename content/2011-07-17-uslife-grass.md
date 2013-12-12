@@ -1,4 +1,4 @@
-Title: "回台灣五個禮拜後"
+Title: 回台灣五個禮拜後
 Date: 2011-07-17 22:03:00
 Author: Yao-An Chan
 Category: Food

@@ -1,4 +1,4 @@
-Title: "MacBook Pro 13\" 愛蘋果開箱文"
+Title: MacBook Pro 13\" 愛蘋果開箱文
 Date: 2010-04-26 23:42:00
 Author: Yao-An Chan
 Category: Life@US

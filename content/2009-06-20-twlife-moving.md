@@ -1,4 +1,4 @@
-Title: "變動的一年"
+Title: 變動的一年
 Date: 2009-06-20 05:59:00
 Author: Yao-An Chan
 Category: Life@TW

@@ -1,4 +1,4 @@
-Title: "終於又花錢辦了網路"
+Title: 終於又花錢辦了網路
 Date: 2011-09-20 16:50:00
 Author: Yao-An Chan
 Category: Life@US

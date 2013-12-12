@@ -1,4 +1,4 @@
-Title: "Pure Comfort 好睡記憶枕"
+Title: Pure Comfort 好睡記憶枕
 Date: 2010-07-14 12:24:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

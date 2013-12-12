@@ -1,4 +1,4 @@
-Title: "[食譜][湯]大黃瓜（刺瓜）虱目魚羹湯"
+Title: [食譜][湯]大黃瓜（刺瓜）虱目魚羹湯
 Date: 2009-06-27 22:30:00
 Author: Yao-An Chan
 Category: Cooking

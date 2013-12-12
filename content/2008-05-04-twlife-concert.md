@@ -1,4 +1,4 @@
-Title: "台北愛樂 交響情人夢音樂會巴黎篇"
+Title: 台北愛樂 交響情人夢音樂會巴黎篇
 Date: 2008-05-04 09:22:00
 Author: Yao-An Chan
 Category: Life@TW

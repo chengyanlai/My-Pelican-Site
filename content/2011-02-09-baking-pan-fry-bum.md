@@ -1,4 +1,4 @@
-Title: "久違的水煎包"
+Title: 久違的水煎包
 Date: 2011-02-09 16:30:00
 Author: Yao-An Chan
 Category: Baking

@@ -1,4 +1,4 @@
-Title: "Mozart Symphonies 40 & 41 Jupiter"
+Title: Mozart Symphonies 40 & 41 Jupiter
 Date: 2008-02-13 05:17:00
 Author: Yao-An Chan
 Tags: 有音樂不寂寞

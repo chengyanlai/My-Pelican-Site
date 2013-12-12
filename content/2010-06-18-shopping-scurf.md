@@ -1,4 +1,4 @@
-Title: "關於促進經濟發展這件事"
+Title: 關於促進經濟發展這件事
 Date: 2010-06-18 17:44:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

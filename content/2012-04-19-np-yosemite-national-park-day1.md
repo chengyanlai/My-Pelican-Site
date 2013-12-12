@@ -1,4 +1,4 @@
-Title: "2011夏天的優勝美地五日遊 Yosemite National Park - Day1: Mono Lake"
+Title: 2011夏天的優勝美地五日遊 Yosemite National Park - Day1: Mono Lake
 Date: 2012-04-19 17:07:00
 Author: Yao-An Chan
 Category: Travel

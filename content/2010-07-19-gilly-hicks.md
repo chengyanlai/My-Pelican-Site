@@ -1,4 +1,4 @@
-Title: "Gilly Hicks 可愛又不失性感好穿心得"
+Title: Gilly Hicks 可愛又不失性感好穿心得
 Date: 2010-07-19 00:25:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

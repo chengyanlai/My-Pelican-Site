@@ -1,4 +1,4 @@
-Title: "Hate"
+Title: Hate
 Date: 2008-06-30 09:52:00
 Author: Yao-An Chan
 Tags: 內心小小獨白

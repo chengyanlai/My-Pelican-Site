@@ -1,5 +1,5 @@
 Date: 2013-11-08 21:00  
-title: "Python package for OSX" 
+title: Python package for OSX
 Author: Chen-Yen Lai
 Category: Python
 

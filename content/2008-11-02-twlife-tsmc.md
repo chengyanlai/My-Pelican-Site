@@ -1,4 +1,4 @@
-Title: "運動會"
+Title: 運動會
 Date: 2008-11-02 07:59:00
 Author: Yao-An Chan
 Category: Life@TW

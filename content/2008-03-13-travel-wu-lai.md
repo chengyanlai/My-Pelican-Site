@@ -1,4 +1,4 @@
-Title: "烏來"
+Title: 烏來
 Date: 2008-03-13 08:54:00
 Author: Yao-An Chan
 Category: Travel

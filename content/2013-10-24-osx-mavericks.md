@@ -1,5 +1,5 @@
 Date: 2013-10-24 21:00  
-title: "OSX Mavericks Installation and Setup"  
+Title: OSX Mavericks Installation and Setup
 Author: Chen-Yen Lai
 Category: OSX
 

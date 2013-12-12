@@ -1,4 +1,4 @@
-Title: "Food--新竹美食推薦"
+Title: Food--新竹美食推薦
 Date: 2008-12-14 07:31:00
 Author: Yao-An Chan
 Category: Food 

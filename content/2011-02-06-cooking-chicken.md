@@ -1,4 +1,4 @@
-Title: "簡單好吃照燒雞腿排"
+Title: 簡單好吃照燒雞腿排
 Date: 2011-02-06 21:06:00
 Author: Yao-An Chan
 Category: Cooking

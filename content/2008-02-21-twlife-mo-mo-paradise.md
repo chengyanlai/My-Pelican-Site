@@ -1,4 +1,4 @@
-Title: "請吃飯的生日賀卡"
+Title: 請吃飯的生日賀卡
 Date: 2008-02-21 05:15:00
 Author: Yao-An Chan
 Category: Life@TW

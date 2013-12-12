@@ -1,11 +1,20 @@
 {% extends "base.html" %}
 {% block content %}
-<h1>Archives for {{ SITENAME }}</h1>
+<h2>Archives for {{ SITENAME }}</h2>
 
 <dl>
 {% for article in dates %}
-    <dt>{{ article.locale_date }}</dt>
-    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+    <dt><i class="icon-clock icon-medium"></i>{{ article.locale_date }}
+    <i class="icon-feather icon-medium"></i>{{ article.author }}</dt>
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+        <i class="icon-folder icon-medium"></i><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+			{% if article.tags %}
+				<i class="icon-tag icon-medium"></i>
+				{% for tag in article.tags %}
+					<a class="danger label" href="{{ SITEURL }}/{{ tag.url }}">{{ tag|e }}</a>
+				{% endfor %}
+			{% endif %}
+    </dd>
 {% endfor %}
 </dl>
 {% endblock %}

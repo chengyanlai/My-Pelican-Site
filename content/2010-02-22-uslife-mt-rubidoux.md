@@ -1,4 +1,4 @@
-Title: "河濱登山樂：Mt. Rubidoux"
+Title: 河濱登山樂：Mt. Rubidoux
 Date: 2010-02-22 15:06:00
 Author: Yao-An Chan
 Category: Travel

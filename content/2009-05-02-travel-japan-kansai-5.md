@@ -1,4 +1,4 @@
-Title: "2009/4/4日本關西之旅-6/11"
+Title: 2009/4/4日本關西之旅-6/11
 Date: 2009-05-02 07:54:00
 Author: Yao-An Chan
 Category: Travel

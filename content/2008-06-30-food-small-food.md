@@ -1,4 +1,4 @@
-Title: "林園戲院"
+Title: 林園戲院
 Date: 2008-06-30 09:53:00
 Author: Yao-An Chan
 Category: Food 

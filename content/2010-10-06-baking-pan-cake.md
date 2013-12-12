@@ -1,4 +1,4 @@
-Title: "變化多端的Pan Cake"
+Title: 變化多端的Pan Cake
 Date: 2010-10-06 17:05:00
 Author: Yao-An Chan
 Category: Baking

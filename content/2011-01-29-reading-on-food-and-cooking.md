@@ -1,4 +1,4 @@
-Title: "On Food and Cooking 食物與廚藝系列"
+Title: On Food and Cooking 食物與廚藝系列
 Date: 2011-01-29 02:56:00
 Author: Yao-An Chan
 Tags: 圖書股長推薦

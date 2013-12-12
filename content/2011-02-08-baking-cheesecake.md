@@ -1,4 +1,4 @@
-Title: "現成Cheesecake加自製藍莓淋醬"
+Title: 現成Cheesecake加自製藍莓淋醬
 Date: 2011-02-08 16:46:00
 Author: Yao-An Chan
 Category: Baking

@@ -1,5 +1,5 @@
 Date: 2013-10-03 21:00  
-title: "OSX Library folder" 
+Title: OSX Library folder
 Author: Chen-Yen Lai
 Category: OSX
 

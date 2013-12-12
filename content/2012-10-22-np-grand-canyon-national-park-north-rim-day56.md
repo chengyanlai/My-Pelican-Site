@@ -1,4 +1,4 @@
-Title: "美國國家公園六日遊－ Day5 & 6 @ Grand Canyon National Park (North Rim) & Las Vegas"
+Title: 美國國家公園六日遊－ Day5 & 6 @ Grand Canyon National Park (North Rim) & Las Vegas
 Date: 2012-10-22 00:12:00
 Author: Yao-An Chan
 Category: Travel

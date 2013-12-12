@@ -1,4 +1,4 @@
-Title: "手工Pizza的祕密武器：Pizza Stone & Pizza Peel"
+Title: 手工Pizza的祕密武器：Pizza Stone & Pizza Peel
 Date: 2010-05-17 14:26:00
 Author: Yao-An Chan
 Category: Cooking

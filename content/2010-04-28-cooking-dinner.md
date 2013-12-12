@@ -1,4 +1,4 @@
-Title: "小白紀念晚餐"
+Title: 小白紀念晚餐
 Date: 2010-04-28 21:34:00
 Author: Yao-An Chan
 Category: Cooking

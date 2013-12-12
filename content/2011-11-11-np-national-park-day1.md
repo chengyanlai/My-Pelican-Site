@@ -1,4 +1,4 @@
-Title: "春遊Death Valley National Park - Day1"
+Title: 春遊Death Valley National Park - Day1
 Date: 2011-11-11 15:44:00
 Author: Yao-An Chan
 Category: Travel

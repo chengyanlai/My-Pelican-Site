@@ -1,4 +1,4 @@
-Title: "Wedding Day"
+Title: Wedding Day
 Date: 2008-12-08 04:03:00
 Author: Yao-An Chan
 Category: Life@TW

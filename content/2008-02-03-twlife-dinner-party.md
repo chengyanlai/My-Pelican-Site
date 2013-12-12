@@ -1,4 +1,4 @@
-Title: "尾牙"
+Title: 尾牙
 Date: 2008-02-03 08:40:00
 Author: Yao-An Chan
 Category: Life@TW

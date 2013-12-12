@@ -1,4 +1,4 @@
-Title: "潘婷家&南庄遊"
+Title: 潘婷家&南庄遊
 Date: 2008-05-03 09:26:00
 Author: Yao-An Chan
 Category: Travel

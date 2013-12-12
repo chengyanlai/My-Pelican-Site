@@ -1,4 +1,4 @@
-Title: "啟用Picasa相簿"
+Title: 啟用Picasa相簿
 Date: 2008-02-13 06:13:00
 Author: Yao-An Chan
 Category: Life@TW

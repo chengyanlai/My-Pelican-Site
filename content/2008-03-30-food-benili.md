@@ -1,4 +1,4 @@
-Title: "慶生"
+Title: 慶生
 Date: 2008-03-30 22:07:00
 Author: Yao-An Chan
 Category: Food 

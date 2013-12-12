@@ -1,4 +1,4 @@
-Title: "2009 在美遊記：Universal Studios"
+Title: 2009 在美遊記：Universal Studios
 Date: 2010-02-01 14:17:00
 Author: Yao-An Chan
 Category: Travel

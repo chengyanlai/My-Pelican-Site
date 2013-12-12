@@ -1,4 +1,4 @@
-Title: "22世紀的孫子介紹的魔擦筆"
+Title: 22世紀的孫子介紹的魔擦筆
 Date: 2008-02-21 07:27:00
 Author: Yao-An Chan
 Tags: 促進經濟發展

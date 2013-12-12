@@ -1,4 +1,4 @@
-Title: "動物園"
+Title: 動物園
 Date: 2008-06-30 09:51:00
 Author: Yao-An Chan
 Category: Travel

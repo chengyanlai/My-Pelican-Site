@@ -1,4 +1,4 @@
-Title: "省錢高級美味！Cheesecake factory的Cheesecake加自製草莓淋醬"
+Title: 省錢高級美味！Cheesecake factory的Cheesecake加自製草莓淋醬
 Date: 2010-04-27 18:33:00
 Author: Yao-An Chan
 Category: Baking

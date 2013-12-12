@@ -1,4 +1,4 @@
-Title: "主婦之店"
+Title: 主婦之店
 Date: 2008-04-13 08:25:00
 Author: Yao-An Chan
 Category: Food 

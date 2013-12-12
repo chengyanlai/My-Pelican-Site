@@ -1,4 +1,4 @@
-Title: "隱身日本超市的好吃拉麵：山頭火"
+Title: 隱身日本超市的好吃拉麵：山頭火
 Date: 2010-08-11 12:36:00
 Author: Yao-An Chan
 Category: Food

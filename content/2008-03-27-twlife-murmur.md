@@ -1,4 +1,4 @@
-Title: "25歲"
+Title: 25歲
 Date: 2008-03-27 09:16:00
 Author: Yao-An Chan
 Category: Life@TW

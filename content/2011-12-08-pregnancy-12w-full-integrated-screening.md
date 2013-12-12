@@ -1,4 +1,4 @@
-Title: "[12w] Full Integrated Screening"
+Title: [12w] Full Integrated Screening
 Date: 2011-12-08 20:57:00
 Author: Yao-An Chan
 Category: Pregnancy

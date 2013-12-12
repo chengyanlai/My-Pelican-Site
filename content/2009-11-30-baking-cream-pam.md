@@ -1,4 +1,4 @@
-Title: "[Cook]瑪芬/紅茶巧克力餅乾/克林姆麵包/墨西哥菠蘿麵包"
+Title: [Cook]瑪芬/紅茶巧克力餅乾/克林姆麵包/墨西哥菠蘿麵包
 Date: 2009-11-30 10:15:00
 Author: Yao-An Chan
 Category: Baking

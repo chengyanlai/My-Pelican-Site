@@ -1,4 +1,4 @@
-Title: "不能算車禍的車禍"
+Title: 不能算車禍的車禍
 Date: 2009-05-11 08:32:00
 Author: Yao-An Chan
 Category: Life@TW

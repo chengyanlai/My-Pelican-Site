@@ -1,4 +1,4 @@
-Title: "2010春遊小記：San Diego Wild Park"
+Title: 2010春遊小記：San Diego Wild Park
 Date: 2010-04-08 17:02:00
 Author: Yao-An Chan
 Category: Travel

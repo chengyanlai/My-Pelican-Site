@@ -1,4 +1,4 @@
-Title: "副理byebye~"
+Title: 副理byebye~
 Date: 2008-10-24 19:21:00
 Author: Yao-An Chan
 Category: Life@TW

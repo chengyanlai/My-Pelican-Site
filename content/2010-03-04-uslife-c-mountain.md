@@ -1,4 +1,4 @@
-Title: "河濱登山樂：Mt. Box Springs - The Big C"
+Title: 河濱登山樂：Mt. Box Springs - The Big C
 Date: 2010-03-04 14:20:00
 Author: Yao-An Chan
 Category: Travel

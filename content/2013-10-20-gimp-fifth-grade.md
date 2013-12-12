@@ -1,5 +1,5 @@
 Date: 2013-10-20  
-title: "小學生修圖 vol. 1" 
+Title: 小學生修圖 vol. 1
 Author: Chen-Yen Lai
 Category: Gimp
 

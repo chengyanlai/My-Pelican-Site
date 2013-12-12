@@ -1,4 +1,4 @@
-Title: "焦糖烤布丁"
+Title: 焦糖烤布丁
 Date: 2011-10-03 22:24:00
 Author: Yao-An Chan
 Category: Baking

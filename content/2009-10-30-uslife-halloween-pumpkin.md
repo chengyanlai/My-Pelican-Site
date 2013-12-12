@@ -1,4 +1,4 @@
-Title: "Halloween Pumpkin"
+Title: Halloween Pumpkin
 Date: 2009-10-30 13:55:00
 Author: Yao-An Chan
 Category: Life@US

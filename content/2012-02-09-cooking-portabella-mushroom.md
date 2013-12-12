@@ -1,4 +1,4 @@
-Title: "[食譜] 蒜香奶油培根蘑菇（portabella mushroom）"
+Title: [食譜] 蒜香奶油培根蘑菇（portabella mushroom）
 Date: 2012-02-09 22:04:00
 Author: Yao-An Chan
 Category: Cooking

@@ -1,4 +1,4 @@
-Title: "寶寶的第一口！副食品上路啦～"
+Title: 寶寶的第一口！副食品上路啦～
 Date: 2012-11-04 23:44:00
 Author: Yao-An Chan
 Category: Kessler

@@ -1,4 +1,4 @@
-Title: "[食譜] 超簡單小烤箱料理-鮪魚鑲番茄"
+Title: [食譜] 超簡單小烤箱料理-鮪魚鑲番茄
 Date: 2010-05-07 22:12:00
 Author: Yao-An Chan
 Category: Cooking

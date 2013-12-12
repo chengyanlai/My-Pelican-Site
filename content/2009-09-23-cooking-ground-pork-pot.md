@@ -1,4 +1,4 @@
-Title: "[Cook][食譜]新菜實驗之滷肉燥＋滷蛋"
+Title: [Cook][食譜]新菜實驗之滷肉燥＋滷蛋
 Date: 2009-09-23 14:35:00
 Author: Yao-An Chan
 Category: Cooking

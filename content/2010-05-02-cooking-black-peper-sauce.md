@@ -1,4 +1,4 @@
-Title: "[食譜] 吃鐵板燒吧！黑胡椒醬＆蘑菇醬"
+Title: [食譜] 吃鐵板燒吧！黑胡椒醬＆蘑菇醬
 Date: 2010-05-02 23:40:00
 Author: Yao-An Chan
 Category: Cooking

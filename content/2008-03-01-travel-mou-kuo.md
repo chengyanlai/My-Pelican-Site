@@ -1,4 +1,4 @@
-Title: "貓空纜車"
+Title: 貓空纜車
 Date: 2008-03-01 08:29:00
 Author: Yao-An Chan
 Category: Travel

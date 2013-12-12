@@ -1,4 +1,4 @@
-Title: "智齒No.2  Bye."
+Title: 智齒No.2  Bye.
 Date: 2009-09-02 06:53:00
 Author: Yao-An Chan
 Category: Life@TW

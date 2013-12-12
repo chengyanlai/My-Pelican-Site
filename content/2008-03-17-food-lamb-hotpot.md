@@ -1,4 +1,4 @@
-Title: "[重] 炭燒羊肉爐"
+Title: [重] 炭燒羊肉爐
 Date: 2008-03-17 07:23:00
 Author: Yao-An Chan
 Category: Food 

@@ -1,4 +1,4 @@
-Title: "About Work"
+Title: About Work
 Date: 2008-04-26 07:20:00
 Author: Yao-An Chan
 Tags: 內心小小獨白

@@ -1,4 +1,4 @@
-Title: "新人"
+Title: 新人
 Date: 2008-10-30 08:29:00
 Author: Yao-An Chan
 Category: Life@TW

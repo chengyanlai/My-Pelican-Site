@@ -1,4 +1,4 @@
-Title: "花燈"
+Title: 花燈
 Date: 2008-03-01 08:22:00
 Author: Yao-An Chan
 Category: Life@TW

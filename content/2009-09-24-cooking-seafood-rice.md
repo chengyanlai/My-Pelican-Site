@@ -1,4 +1,4 @@
-Title: "[Cook][食譜]新菜實驗之簡便海鮮燉飯"
+Title: [Cook][食譜]新菜實驗之簡便海鮮燉飯
 Date: 2009-09-24 10:03:00
 Author: Yao-An Chan
 Category: Cooking

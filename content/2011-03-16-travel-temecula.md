@@ -1,4 +1,4 @@
-Title: "Temecula 酒莊之旅"
+Title: Temecula 酒莊之旅
 Date: 2011-03-16 16:01:00
 Author: Yao-An Chan
 Category: Travel

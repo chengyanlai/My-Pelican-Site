@@ -1,4 +1,4 @@
-Title: "Lucky!"
+Title: Lucky!
 Date: 2008-04-03 08:04:00
 Author: Yao-An Chan
 Category: Life@TW

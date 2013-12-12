@@ -2,12 +2,6 @@ Title: Links
 Date: 2013-11-13 23:00
 slug: 9-links
 
-Markdown Syntax
----
-+ [Markdown語法](http://markdown.tw/)
-+ [Dingus Tryout](http://daringfireball.net/projects/markdown/dingus)
-+ [PHP Markdown Exttra](http://michelf.ca/projects/php-markdown/extra/)
-
 Python Packages
 ---
 + [Continuum Analysis (Anaconda)](http://www.continuum.io/)

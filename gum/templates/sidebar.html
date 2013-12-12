@@ -4,13 +4,16 @@
 {% include 'include/authors.html' %}
 {% include 'include/baby_growth_chart.html' %}
 
-<h4>Pages</h4>
+<h4>Blog roll</h4>
 
  <ul>
+  {% for title, link in LINKS %}
+      <li><a href="{{ link }}">{{ title }}</a></li>
+  {% endfor %}
   {% for title, link in MENUITEMS %}
       <li><a href="{{ link }}">{{ title }}</a></li>
   {% endfor %}
-  {% if DISPLAY_PAGES_ON_MENU %}
+  <!--{% if DISPLAY_PAGES_ON_MENU %}
     {% for p in PAGES %}
       <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
     {% endfor %}
@@ -20,14 +23,16 @@
         <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
       {% endfor %}
     {% endif %}
-  {% endif %}
+  {% endif %}-->
   </ul>
 
 <h4>Categories</h4>
 {% if categories %}
 <ul>
 	{% for cat, null in categories %}
-		<li><a href="{{ SITEURL }}/{{ cat.url|e }}">{{ cat }}</a></li>
+		<li><a href="{{ SITEURL }}/{{ cat.url|e }}">
+            <i class="icon-folder icon-medium"></i>{{ cat }} ({{ null | count }})
+        </a></li>
 	{% endfor %}
 </ul>
 {% endif %}
@@ -37,18 +42,25 @@
 {% if tags %}
 	<ul>
 	{% for tag in tag_cloud %}
-	    <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0|e }}</a></li>
+	    <li class="tag-{{ tag.1 }}">
+            <a href="{{ SITEURL }}/{{ tag.0.url }}">
+                <i class="icon-tag icon-medium"></i>{{ tag.0|e }}
+            </a>
+        </li>
 	{% endfor %}
 </ul>
 {% endif %}
 
 
-{% if SOCIAL %}
+{% if SOCIALCY and SOCIALYA %}
 <nav class="widget">
   <h4>Social</h4>
   <ul>
-  {% for name, url in SOCIAL %}
-    <li><a href="{{ url|e }}">{{ name }}</a></li>
+  {% for name, url in SOCIALCY %}
+    <li><a href="{{ url|e }}"><i class="icon-{{ name }} icon-large"></i>Chen-Yen's {{ name }}</a></li>
+  {% endfor %}
+  {% for name, url in SOCIALYA %}
+    <li><a href="{{ url|e }}"><i class="icon-{{ name }} icon-large"></i>Yao-An's {{ name }}</a></li>
   {% endfor %}
   </ul>
 </nav>

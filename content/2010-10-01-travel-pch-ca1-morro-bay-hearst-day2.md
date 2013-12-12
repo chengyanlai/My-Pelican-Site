@@ -1,4 +1,4 @@
-Title: "2010 PCH CA-1 加州一號公路旅行 Day2: Morro Bay, Hearst Castle, BigSur, Carmel-by-the-Sea"
+Title: 2010 PCH CA-1 加州一號公路旅行 Day2: Morro Bay, Hearst Castle, BigSur, Carmel-by-the-Sea
 Date: 2010-10-01 15:36:00
 Author: Yao-An Chan
 Category: Travel

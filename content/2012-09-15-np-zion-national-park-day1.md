@@ -1,4 +1,4 @@
-Title: "美國國家公園六日遊－ Day1 @ Zion National Park"
+Title: 美國國家公園六日遊－ Day1 @ Zion National Park
 Date: 2012-09-15 23:49:00
 Author: Yao-An Chan
 Category: Travel

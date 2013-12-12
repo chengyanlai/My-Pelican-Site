@@ -1,4 +1,4 @@
-Title: "小水族箱v1.1"
+Title: 小水族箱v1.1
 Date: 2008-10-30 08:28:00
 Author: Yao-An Chan
 Category: Life@TW

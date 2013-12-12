@@ -1,4 +1,4 @@
-Title: "2009 在美遊記：Husband free day"
+Title: 2009 在美遊記：Husband free day
 Date: 2010-01-12 22:11:00
 Author: Yao-An Chan
 Category: Travel

@@ -1,4 +1,4 @@
-Title: "麵包的開始：麵糰製作"
+Title: 麵包的開始：麵糰製作
 Date: 2012-04-08 11:17:00
 Author: Yao-An Chan
 Categpry: Baking

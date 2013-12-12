@@ -1,4 +1,4 @@
-Title: "育兒樂：滿月日記"
+Title: 育兒樂：滿月日記
 Date: 2012-08-28 09:45:00
 Author: Yao-An Chan
 Category: Kessler

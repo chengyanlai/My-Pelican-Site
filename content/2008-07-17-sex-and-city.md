@@ -1,4 +1,4 @@
-Title: "Sex and the city"
+Title: Sex and the city
 Date: 2008-07-17 02:37:00
 Author: Yao-An Chan
 Category: Movie-Drama

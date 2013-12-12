@@ -1,4 +1,4 @@
-Title: "離島遊"
+Title: 離島遊
 Date: 2008-06-04 10:21:00
 Author: Yao-An Chan
 Category: Travel

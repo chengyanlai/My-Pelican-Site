@@ -1,4 +1,4 @@
-Title: "2009 在美遊記：Las Vegas"
+Title: 2009 在美遊記：Las Vegas
 Date: 2010-01-19 00:50:00
 Author: Yao-An Chan
 Category: Travel

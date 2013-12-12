@@ -1,4 +1,4 @@
-Title: "春遊Death Valley National Park - Day2 end (附錄)"
+Title: 春遊Death Valley National Park - Day2 end (附錄)
 Date: 2011-12-01 16:13:00
 Author: Yao-An Chan
 Category: Travel

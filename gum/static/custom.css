@@ -3,6 +3,8 @@
 
  My custom CSS style
 */
+
+/* For Tag Cloud */
 #cloud { padding: 2px; line-height: 2em; text-align: center; margin: 0; }
 #cloud a { padding: 0px; }
 #cloud li { display: inline; }

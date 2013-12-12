@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Chen-Yen Lai'
 SITENAME = u'Little Things about Everything'
 SITESUBTITLE = u'Never Stop Learning'
-SITEURL = 'http://chengyanlai.github.io'
+SITEURL = ''
 
 TIMEZONE = 'America/Los_Angeles'
 
@@ -36,7 +36,7 @@ SOCIALYA = (('facebook', 'http://www.facebook.com/yaoanchan'),)
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+#RELATIVE_URLS = True
 
 MD_EXTENSIONS = (['codehilite(css_class=highlight)','extra'])
 
@@ -58,10 +58,6 @@ GOOGLEPLUS_URL = "https://plus.google.com/+ChenYenLai"
 ADDTHIS_PROFILE = True
 DISPLAY_CATEGORIES_ON_MENU = False
 TAG_CLOUD_STEPS = 4
-
-# Following items are often useful when publishing
-DISQUS_SITENAME = "mypelicansite"
-GOOGLE_ANALYTICS = "UA-45866413-1"
 
 # For Plugins
 PLUGIN_PATH = '/Users/Shared/Git_repo/GitHub/my-blog/plugins'

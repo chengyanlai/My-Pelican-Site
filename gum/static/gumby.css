@@ -127,10 +127,10 @@ html, body {
   font-family: "entypo";
   font-style: normal;
   font-weight: 400;
-  src: url('fonts/icons/entypo.eot');
-  src: url("fonts/icons/entypo.eot?#iefix") format("ie9-skip-eot"), 
-       url("fonts/icons/entypo.woff") format("woff"), 
-       url("fonts/icons/entypo.ttf") format("truetype");
+  src: url('fonts/entypo.eot');
+  src: url("fonts/entypo.eot?#iefix") format("ie9-skip-eot"), 
+       url("fonts/entypo.woff") format("woff"), 
+       url("fonts/entypo.ttf") format("truetype");
 }
 
 @font-face {

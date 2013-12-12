@@ -47,7 +47,7 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 STATIC_PATHS = ['images', 'code']
 
-#THEME = "/Users/Shared/Git_repo/GitHub/my-blog/pelican-octopress-theme"
+#THEME = "/Users/Shared/Git_repo/GitHub/my-blog/octopress"
 
 # For Theme - gum
 THEME = "/Users/Shared/Git_repo/GitHub/my-blog/gum"
@@ -57,7 +57,7 @@ FACEBOOK_URL = "https://www.facebook.com/chenyenlai"
 GOOGLEPLUS_URL = "https://plus.google.com/+ChenYenLai"
 ADDTHIS_PROFILE = True
 DISPLAY_CATEGORIES_ON_MENU = False
-#TAG_CLOUD_STEPS = 4 not working yet
+TAG_CLOUD_STEPS = 4
 
 # Following items are often useful when publishing
 DISQUS_SITENAME = "mypelicansite"

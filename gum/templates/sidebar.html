@@ -39,18 +39,13 @@
 
 
 <h4>Tags</h4>
-{% if tags %}
-	<ul>
-	{% for tag in tag_cloud %}
-	    <li class="tag-{{ tag.1 }}">
-            <a href="{{ SITEURL }}/{{ tag.0.url }}">
-                <i class="icon-tag icon-medium"></i>{{ tag.0|e }}
-            </a>
-        </li>
-	{% endfor %}
-</ul>
-{% endif %}
-
+{% if TAG_CLOUD_STEPS %}
+    <ul id="cloud">
+        {% for tag in tag_cloud %}
+            <li class="tag-{{ tag.1 }}"><a href="{{ SITEURL }}/{{ tag.0.url }}">{{ tag.0 }}</a></li>
+        {% endfor %}
+    </ul>
+{% endif %}<!-- /.Tags -->
 
 {% if SOCIALCY and SOCIALYA %}
 <nav class="widget">

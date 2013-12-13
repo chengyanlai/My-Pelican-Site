@@ -17,7 +17,12 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Markdown語法', 'http://markdown.tw/'),
+LINKS =  (("老百姓HP的部落格", "http://hpwange.pixnet.net/blog"),
+          ('La Casa de JimmyBlanca', 'http://jimmyblanca.blogspot.com'),
+          ('A Free Seeker', 'http://thousandchen.blogspot.com'),
+          ('sally\'s little world', 'http://marykey-all.blogspot.com'),
+          ('Sentimental Reasons', 'http://vilina.blogspot.com/'),
+          ('Markdown語法', 'http://markdown.tw/'),
           ('Dingus Tryout', 'http://daringfireball.net/projects/markdown/dingus'),
           ('PHP Markdown Extra', 'http://michelf.ca/projects/php-markdown/extra/'),
           ('Pelican', 'http://getpelican.com/'),

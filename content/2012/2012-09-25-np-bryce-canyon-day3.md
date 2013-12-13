@@ -1,4 +1,4 @@
-Title: 美國國家公園六日遊－ Day3 @ Bryce Canyon National Park
+Title: 2012美國國家公園六日遊 Bryce Canyon National Park － Day3: Navajo Loop
 Date: 2012-09-25 00:50:00
 Author: Yao-An Chan
 Category: Travel

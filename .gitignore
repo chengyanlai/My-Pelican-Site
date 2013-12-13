@@ -2,3 +2,4 @@
 *.pid
 output/
 deploy/
+.DS_Store

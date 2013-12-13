@@ -12,11 +12,13 @@ try:
 except IndexError:
     blog_author = "Yao-An Chan"
 
+time_now = datetime.today().strftime("%Y-%m-%d %H:%M:%S")
+
 filename = str(date.today()) + "-" + blog_title + ".md"
 
 f = open('content/'+filename, 'w')
 
-f.write("Date: " + str(datetime.today()))
+f.write("Date: " + time_now)
 f.write("\nTitle: " + blog_title)
 f.write("\nAuthor: " + blog_author)
 f.write("\nCategory: ")

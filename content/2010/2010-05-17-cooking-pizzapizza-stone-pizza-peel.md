@@ -1,7 +1,7 @@
 Title: 手工Pizza的祕密武器：Pizza Stone & Pizza Peel
 Date: 2010-05-17 14:26:00
 Author: Yao-An Chan
-Category: Cooking
+Category: Cooking-Backing
 Tags: 促進經濟發展, 伙食很好的證據
 
 

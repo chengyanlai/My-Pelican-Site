@@ -1,7 +1,7 @@
 Title: 大推薦！用Ghirardelli布朗尼預拌粉創造極致美味
 Date: 2010-03-17 20:34:00
 Author: Yao-An Chan
-Category: Baking
+Category: Cooking-Backing
 Tags: 促進經濟發展, 西點蛋糕
 
 

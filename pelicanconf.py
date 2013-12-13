@@ -30,7 +30,8 @@ SOCIALCY = (('facebook', 'http://www.facebook.com/chenyenlai'),
           ('github', 'https://github.com/chengyanlai'),
           ('twitter', 'https://twitter.com/chenyenlai'),
           ('linkedin', 'http://www.linkedin.com/pub/chenyen-lai/52/568/901'),
-          ('gplus', 'https://plus.google.com/+ChenYenLai'),)
+          ('gplus', 'https://plus.google.com/+ChenYenLai'),
+          ('email', 'mailto:chengyanlai@gmail.com'),)
 SOCIALYA = (('facebook', 'http://www.facebook.com/yaoanchan'),)
 
 DEFAULT_PAGINATION = 10

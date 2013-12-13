@@ -1,6 +1,7 @@
 Title: 第十層地獄
 Date: 2008-11-02 07:59:00
 Author: Yao-An Chan
+Category: Movie-Drama-Book
 Tags: 圖書股長推薦
 
 

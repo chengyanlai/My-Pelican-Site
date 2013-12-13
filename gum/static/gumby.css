@@ -2095,41 +2095,41 @@ i.icon-note-beamed:before {
 }
 
 .icon-music.icon-left a:before, .icon-music.icon-right a:after {
-  content: "ðŸŽµ";
+  content: "\266b";
   height: inherit;
 }
 
 i.icon-music:before {
-  content: "ðŸŽµ";
+  content: "\266b";
   height: inherit;
 }
 
 .icon-search.icon-left a:before, .icon-search.icon-right a:after {
-  content: "ðŸ”";
+  content: "\1f50d";
   height: inherit;
 }
 
 i.icon-search:before {
-  content: "ðŸ”";
+  content: "\1f50d";
   height: inherit;
 }
 
 .icon-flashlight.icon-left a:before, .icon-flashlight.icon-right a:after {
-  content: "ðŸ”¦";
+  content: "\1f526";
   height: inherit;
 }
 
 i.icon-flashlight:before {
-  content: "ðŸ”¦";
+  content: "\1f526";
   height: inherit;
 }
 
-.icon-mail.icon-left a:before, .icon-mail.icon-right a:after {
+.icon-email.icon-left a:before, .icon-mail.icon-right a:after {
   content: "\2709";
   height: inherit;
 }
 
-i.icon-mail:before {
+i.icon-email:before {
   content: "\2709";
   height: inherit;
 }
@@ -2175,22 +2175,22 @@ i.icon-star-empty:before {
 }
 
 .icon-user.icon-left a:before, .icon-user.icon-right a:after {
-  content: "ðŸ‘¤";
+  content: "\1f464";
   height: inherit;
 }
 
 i.icon-user:before {
-  content: "ðŸ‘¤";
+  content: "\1f464";
   height: inherit;
 }
 
 .icon-users.icon-left a:before, .icon-users.icon-right a:after {
-  content: "ðŸ‘¥";
+  content: "\1f465";
   height: inherit;
 }
 
 i.icon-users:before {
-  content: "ðŸ‘¥";
+  content: "\1f465";
   height: inherit;
 }
 
@@ -2205,12 +2205,12 @@ i.icon-user-add:before {
 }
 
 .icon-video.icon-left a:before, .icon-video.icon-right a:after {
-  content: "ðŸŽ¬";
+  content: "\1f6c8";
   height: inherit;
 }
 
 i.icon-video:before {
-  content: "ðŸŽ¬";
+  content: "\1f6c8";
   height: inherit;
 }
 
@@ -2415,42 +2415,42 @@ i.icon-home:before {
 }
 
 .icon-link.icon-left a:before, .icon-link.icon-right a:after {
-  content: "ðŸ”—";
+  content: "\1f517";
   height: inherit;
 }
 
 i.icon-link:before {
-  content: "ðŸ”—";
+  content: "\1f517";
   height: inherit;
 }
 
 .icon-attach.icon-left a:before, .icon-attach.icon-right a:after {
-  content: "ðŸ“Ž";
+  content: "\1f4ce";
   height: inherit;
 }
 
 i.icon-attach:before {
-  content: "ðŸ“Ž";
+  content: "\1f4ce";
   height: inherit;
 }
 
 .icon-lock.icon-left a:before, .icon-lock.icon-right a:after {
-  content: "ðŸ”’";
+  content: "\1f512";
   height: inherit;
 }
 
 i.icon-lock:before {
-  content: "ðŸ”’";
+  content: "\1f512";
   height: inherit;
 }
 
 .icon-lock-open.icon-left a:before, .icon-lock-open.icon-right a:after {
-  content: "ðŸ”“";
+  content: "\1f513";
   height: inherit;
 }
 
 i.icon-lock-open:before {
-  content: "ðŸ”“";
+  content: "\1f513";
   height: inherit;
 }
 

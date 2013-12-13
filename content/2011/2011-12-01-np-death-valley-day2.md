@@ -2,7 +2,7 @@ Title: 春遊Death Valley National Park - Day2 end (附錄)
 Date: 2011-12-01 16:13:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國新鮮生活, 美國旅行, US National Park
+Tags: 美國新鮮生活, 美國旅行, NationalPark, DeathValley
 
 
 <div class='post'>

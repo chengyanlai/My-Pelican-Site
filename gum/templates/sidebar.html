@@ -1,10 +1,9 @@
 <div class="three columns">
 
 {% include 'include/about.html' %}
-{% include 'include/authors.html' %}
 {% include 'include/baby_growth_chart.html' %}
 
-<h4>Blog roll</h4>
+<h4><i class="icon-link icon-large"></i>Blog roll</h4>
 
  <ul>
   {% for title, link in LINKS %}
@@ -26,19 +25,18 @@
   {% endif %}-->
   </ul>
 
-<h4>Categories</h4>
+<h4><i class="icon-folder icon-large"></i>Categories</h4>
 {% if categories %}
 <ul>
 	{% for cat, null in categories %}
-		<li><a href="{{ SITEURL }}/{{ cat.url|e }}">
-            <i class="icon-folder icon-medium"></i>{{ cat }} ({{ null | count }})
+		<li><a href="{{ SITEURL }}/{{ cat.url|e }}">{{ cat }} ({{ null | count }})
         </a></li>
 	{% endfor %}
 </ul>
 {% endif %}
 
 
-<h4>Tags</h4>
+<h4><i class="icon-tag icon-large"></i>Tags</h4>
 {% if TAG_CLOUD_STEPS %}
     <ul id="cloud">
         {% for tag in tag_cloud %}
@@ -49,7 +47,7 @@
 
 {% if SOCIALCY and SOCIALYA %}
 <nav class="widget">
-  <h4>Social</h4>
+  <h4><i class="icon-info icon-large"></i>Social</h4>
   <ul>
   {% for name, url in SOCIALCY %}
     <li><a href="{{ url|e }}"><i class="icon-{{ name }} icon-large"></i>Chen-Yen's {{ name }}</a></li>

@@ -1,8 +1,8 @@
 Title: 好遊戲推薦：Mass Effect 質量效應系列
 Date: 2011-02-01 15:40:00
 Author: Yao-An Chan
-Category: Games
-Tags: 宅經濟是王道
+Category: Life@US
+Tags: 宅經濟是王道, Games
 
 
 <div class='post'>

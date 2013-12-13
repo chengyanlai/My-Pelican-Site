@@ -1,6 +1,6 @@
-Title: Terminal下批次更改(副)檔名
+Title: Terminal 批次更改(副)檔名
 Date: 2013-12-08 17:00
-Author: Chen-Yen Sîn-gān Lai
+Author: Chen-Yen Lai
 Category: OSX
 Status: draft
 

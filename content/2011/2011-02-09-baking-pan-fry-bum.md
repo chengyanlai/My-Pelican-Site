@@ -1,7 +1,7 @@
 Title: 久違的水煎包
 Date: 2011-02-09 16:30:00
 Author: Yao-An Chan
-Category: Baking
+Category: Cooking-Backing
 Tags: 包子饅頭
 
 

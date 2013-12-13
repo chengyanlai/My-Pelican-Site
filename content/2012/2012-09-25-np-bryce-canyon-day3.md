@@ -2,7 +2,7 @@ Title: 美國國家公園六日遊－ Day3 @ Bryce Canyon National Park
 Date: 2012-09-25 00:50:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行, US National Park
+Tags: 美國旅行, NationalPark, BryceCanyon
 
 
 <div class='post'>

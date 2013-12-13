@@ -1,8 +1,8 @@
 Title: The Legend of Zelda:Twilight Princess 薩爾達傳說：曙光公主 破關心得
 Date: 2010-11-15 13:47:00
 Author: Yao-An Chan
-Category: Games
-Tags: 宅經濟是王道
+Category: Life@US
+Tags: 宅經濟是王道, Games
 
 
 <div class='post'>

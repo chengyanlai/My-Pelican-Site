@@ -1,6 +1,7 @@
 Title: 最近閱讀推薦(無雷)
 Date: 2008-06-14 11:13:00
 Author: Yao-An Chan
+Category: Movie-Drama-Book
 Tags: 圖書股長推薦
 
 

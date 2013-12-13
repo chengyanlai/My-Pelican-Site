@@ -1,6 +1,7 @@
 Title: Confessions of a Shopaholic
 Date: 2008-10-30 08:30:00
 Author: Yao-An Chan
+Category: Movie-Drama-Book
 Tags: 圖書股長推薦
 
 

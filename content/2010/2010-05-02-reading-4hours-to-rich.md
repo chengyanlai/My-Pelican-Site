@@ -1,6 +1,7 @@
 Title: [好書推薦] 一週工作4小時，晉身新富族！
 Date: 2010-05-02 13:58:00
 Author: Yao-An Chan
+Category: Movie-Drama-Book
 Tags: 圖書股長推薦
 
 

@@ -2,7 +2,7 @@ Title: 美國國家公園六日遊－ Day2 @ Zion National Park
 Date: 2012-09-19 00:32:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行, US National Park
+Tags: 美國旅行, NationalPark, Zion
 
 
 <div class='post'>

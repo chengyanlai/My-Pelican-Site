@@ -114,4 +114,12 @@ deploy: publish
 	cd $(PUBLISHDIR) &&	git ci -m "Update site"
 	cd $(PUBLISHDIR) &&	git push origin master
 
+update:
+	git add . -A
+	git ci -m "Update Source"
+	git push origin master
+	
+sync:
+	git pull origin master
+
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github

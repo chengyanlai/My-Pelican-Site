@@ -2,7 +2,7 @@ Title: 美國國家公園六日遊－ Day4 @ Grand Canyon National Park (North R
 Date: 2012-10-17 00:29:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行, US National Park
+Tags: 美國旅行, NationalPark, GrandCanyon
 
 
 <div class='post'>

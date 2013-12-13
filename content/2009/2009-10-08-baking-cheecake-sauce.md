@@ -1,7 +1,7 @@
 Title: [食譜]起司蛋糕＋藍莓醬
 Date: 2009-10-08 00:08:00
 Author: Yao-An Chan
-Category: Baking
+Category: Cooking-Backing
 Tags: 西點蛋糕
 
 

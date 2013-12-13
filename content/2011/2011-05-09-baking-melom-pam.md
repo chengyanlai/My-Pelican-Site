@@ -1,7 +1,7 @@
 Title: 值得紀念的一天。終於成功的菠蘿麵包
 Date: 2011-05-09 16:54:00
 Author: Yao-An Chan
-Category: Baking
+Category: Cooking-Backing
 Tags: 麵包
 
 

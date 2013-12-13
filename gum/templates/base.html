@@ -88,6 +88,7 @@
                         <ul>
                           <li><a href="{{ SITEURL }}/pages/chenyen.html">Chen-Yen Lai</a></li>
                           <li><a href="{{ SITEURL }}/pages/yaoan.html">Yao-An Chan</a></li>
+                          <li><a href="{{ SITEURL }}/pages/kessler.html">Kessler Lai</a></li>
                         </ul>
                     </div>
                 </li>
@@ -99,7 +100,14 @@
                 <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
               {% endfor %}
             {% endif %}
-                <li><a href="{{ SITEURL }}/archives.html">Archives</a></li>
+                <li><a href="{{ SITEURL }}/archives.html">Archives</a>
+                    <div class="dropdown">
+                        <ul>
+                          <li><a href="{{ SITEURL }}/author/chen-yen-lai.html">Chen-Yen's Archives</a></li>
+                          <li><a href="{{ SITEURL }}/author/yao-an-chan.html">Yao-An's Archives</a></li>
+                        </ul>
+                    </div>
+                </li>
             {% if DISPLAY_CATEGORIES_ON_MENU %}
                 <li><a href="#">Categories</a>
                     <div class="dropdown">

@@ -1,4 +1,4 @@
-Title: Title: 2012美國國家公園六日遊 Grand Canyon National Park - Day4 - North Rim
+Title: Title: 2012美國國家公園六日遊 Grand Canyon National Park - Day4: Scenic Drive
 Date: 2012-10-22 00:12:00
 Author: Yao-An Chan
 Category: Travel

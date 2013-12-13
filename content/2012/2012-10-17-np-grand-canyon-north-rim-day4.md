@@ -1,4 +1,4 @@
-Title: 2012美國國家公園六日遊 Grand Canyon National Park - Day4 - North Rim
+Title: 2012美國國家公園六日遊 Grand Canyon National Park - Day4: North Rim
 Date: 2012-10-17 00:29:00
 Author: Yao-An Chan
 Category: Travel

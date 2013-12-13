@@ -47,6 +47,8 @@ ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
 STATIC_PATHS = ['images', 'code']
 
+USE_FOLDER_AS_CATEGORY = False
+
 #THEME = "/Users/Shared/Git_repo/GitHub/my-blog/octopress"
 
 # For Theme - gum
@@ -57,6 +59,7 @@ FACEBOOK_URL = "https://www.facebook.com/chenyenlai"
 GOOGLEPLUS_URL = "https://plus.google.com/+ChenYenLai"
 ADDTHIS_PROFILE = True
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
 TAG_CLOUD_STEPS = 4
 
 # For Plugins

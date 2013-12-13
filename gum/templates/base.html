@@ -83,6 +83,14 @@
              
               <ul class="columns">
                 <li><a href="{{ SITEURL }}">Home</a></li>
+                <li><a href="#">About</a>
+                    <div class="dropdown">
+                        <ul>
+                          <li><a href="{{ SITEURL }}/pages/chenyen.html">Chen-Yen Lai</a></li>
+                          <li><a href="{{ SITEURL }}/pages/yaoan.html">Yao-An Chan</a></li>
+                        </ul>
+                    </div>
+                </li>
             {% for title, link in MENUITEMS %}
                 <li><a href="{{ link }}">{{ title }}</a></li>
             {% endfor %}

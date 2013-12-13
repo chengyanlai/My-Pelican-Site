@@ -10,10 +10,10 @@
   {% for title, link in LINKS %}
       <li><a href="{{ link }}">{{ title }}</a></li>
   {% endfor %}
-  {% for title, link in MENUITEMS %}
+  <!--{% for title, link in MENUITEMS %}
       <li><a href="{{ link }}">{{ title }}</a></li>
   {% endfor %}
-  <!--{% if DISPLAY_PAGES_ON_MENU %}
+  {% if DISPLAY_PAGES_ON_MENU %}
     {% for p in PAGES %}
       <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
     {% endfor %}

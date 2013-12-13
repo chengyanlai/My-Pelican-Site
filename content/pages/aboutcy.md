@@ -1,6 +1,7 @@
 Title: Chen-Yen Lai
 Date: 2013-11-13 22:54
-slug: 1-chenyen
+slug: chenyen
+status: hidden
 
 <script src="//about.me/embed/chenyenlai?apps=0"></script>
 

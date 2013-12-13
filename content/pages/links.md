@@ -10,6 +10,7 @@ Python Packages
 + [Sympy](http://docs.sympy.org/latest/index.html): Symbolic python!
 + [Kwant](http://kwant-project.org/): Quantum transport simulator.
 + [f2py](http://www.f2py.com): Connection between Fortran and Python language, see [Ref](http://cens.ioc.ee/projects/f2py2e/).
++ [virtualenv](http://www.virtualenv.org): Virtual Environment for Python.
 
 Misc
 ---

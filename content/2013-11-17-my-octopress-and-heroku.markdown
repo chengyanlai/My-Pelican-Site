@@ -1,8 +1,8 @@
 Title: My Octopress and Heroku - 3
 Date: 2013-11-17 15:14
 Author: Chen-Yen Lai
-Category: Blogging Engine  
-Tags: Octopress
+Category: misc
+Tags: Blogging Engine  
 
 ## Blogspot Posts 到 Octopress
 如果你已經有Blog，而且並不想要放棄你的心血結晶，在GitHub可以找到一個Ruby程式，基本上你只需要匯出你的posts！  

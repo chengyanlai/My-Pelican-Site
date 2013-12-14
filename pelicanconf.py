@@ -55,10 +55,10 @@ STATIC_PATHS = ['images', 'code']
 
 USE_FOLDER_AS_CATEGORY = False
 
-#THEME = "/Users/Shared/Git_repo/GitHub/my-blog/octopress"
+#THEME = "./octopress"
 
 # For Theme - gum
-THEME = "/Users/Shared/Git_repo/GitHub/my-blog/gum"
+THEME = "./gum"
 TWITTER_URL = "https://twitter.com/chenyenlai"
 GITHUB_URL = "https://github.com/chengyanlai"
 FACEBOOK_URL = "https://www.facebook.com/chenyenlai"
@@ -69,7 +69,7 @@ DISPLAY_PAGES_ON_MENU = True
 TAG_CLOUD_STEPS = 4
 
 # For Plugins
-PLUGIN_PATH = '/Users/Shared/Git_repo/GitHub/my-blog/plugins'
+PLUGIN_PATH = './plugins'
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.include_code',
            'liquid_tags.notebook','latex','googleplus_comments']

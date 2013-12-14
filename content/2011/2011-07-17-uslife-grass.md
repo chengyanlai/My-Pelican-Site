@@ -2,7 +2,7 @@ Title: 回台灣五個禮拜後
 Date: 2011-07-17 22:03:00
 Author: Yao-An Chan
 Category: Food
-Tags: 台灣美食, 美國新鮮生活
+Tags: 台灣美食, 
 
 
 <div class='post'>

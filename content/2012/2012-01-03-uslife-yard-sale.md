@@ -2,7 +2,7 @@ Title: 第一次去Yard Sale
 Date: 2012-01-03 23:18:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 美國新鮮生活
+Tags: 
 
 
 <div class='post'>

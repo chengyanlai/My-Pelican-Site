@@ -2,7 +2,7 @@ Title: MacBook Pro 13\" 愛蘋果開箱文
 Date: 2010-04-26 23:42:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 促進經濟發展, 美國新鮮生活
+Tags: 促進經濟發展, 
 
 
 <div class='post'>

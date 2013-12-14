@@ -2,7 +2,7 @@ Title: MacBook小白追思紀念文
 Date: 2010-04-23 12:44:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 美國新鮮生活
+Tags: 
 
 
 <div class='post'>

@@ -2,7 +2,7 @@ Title: 2010春遊小記：Disneyland® Park @ California
 Date: 2010-04-08 14:32:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國新鮮生活, 美國旅行
+Tags: 美國旅行
 
 
 <div class='post'>

@@ -2,7 +2,7 @@ Title: 鄰居的惡形惡狀
 Date: 2010-05-07 13:39:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 美國新鮮生活
+Tags: 
 
 
 <div class='post'>

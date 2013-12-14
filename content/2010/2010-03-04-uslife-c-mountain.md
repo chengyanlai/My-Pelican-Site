@@ -2,7 +2,7 @@ Title: 河濱登山樂：Mt. Box Springs - The Big C
 Date: 2010-03-04 14:20:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國新鮮生活, 美國旅行
+Tags: 美國旅行
 
 
 <div class='post'>

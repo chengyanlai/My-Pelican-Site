@@ -2,7 +2,7 @@ Title: 2009 在美遊記：San Diego
 Date: 2010-01-13 23:53:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國新鮮生活, 美國旅行
+Tags: 美國旅行
 
 
 <div class='post'>

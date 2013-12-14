@@ -2,7 +2,7 @@ Title: Day 4 in U.S.A.
 Date: 2009-09-08 21:09:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 美國新鮮生活
+Tags: 
 
 
 <div class='post'>

@@ -2,7 +2,7 @@ Title: 重操舊業做網頁
 Date: 2010-06-17 11:01:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 美國新鮮生活
+Tags: 
 
 
 <div class='post'>

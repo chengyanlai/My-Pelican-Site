@@ -2,7 +2,7 @@ Title: 2010春遊小記：有朋自遠方來
 Date: 2010-04-01 22:16:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國新鮮生活, 美國旅行
+Tags: 美國旅行
 
 
 <div class='post'>

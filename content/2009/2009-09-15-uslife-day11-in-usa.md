@@ -2,7 +2,7 @@ Title: Day 11 in U.S.A.
 Date: 2009-09-15 21:27:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 美國新鮮生活
+Tags: 
 
 
 <div class='post'>

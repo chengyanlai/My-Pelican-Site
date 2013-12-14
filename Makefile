@@ -115,14 +115,8 @@ deploy: publish
 	cd $(PUBLISHDIR) &&	git push origin master
 
 update:
-	git add . -A
-	git ci -m "Update Source"
+	git add -A $(INPUTDIR)/*
+	git ci -m "Update Content Source"
 	git push origin master
-	
-sync:
-	git pull origin master
 
-newpost:
-	touch $(INPUTDIR)/
-
-.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
+.PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github deploy update

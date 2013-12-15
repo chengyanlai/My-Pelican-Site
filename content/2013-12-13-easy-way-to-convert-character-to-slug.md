@@ -2,7 +2,7 @@ Date: 2013-12-13 15:50:01
 Title: easy-way-to-convert-character-to-slug
 Author: Chen-Yen Lai
 Category: Python
-Tags: Blogging Engine
+Tags: Static Site Builder
 Slug: easy-way-to-convert-character-to-slug
 Summary: 轉換中文字體成unicode編碼拼音
 Status: draft

@@ -2,7 +2,7 @@ Title: My Octopress and Heroku - 1
 Date: 2013-11-13 22:46
 Author: Chen-Yen Lai
 Category: misc  
-Tags: Blogging Engine
+Tags: Static Site Builder
 
 ## 前言
 [Octopress](http://octopress.org) 是一套Blog Framework。也是這個 Blog 正在用的系統。  

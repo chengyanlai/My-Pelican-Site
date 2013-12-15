@@ -24,10 +24,10 @@ LINKS =  (("老百姓HP的部落格", "http://hpwange.pixnet.net/blog"),
           ('Sentimental Reasons', 'http://vilina.blogspot.com/'),
           ('Markdown語法', 'http://markdown.tw/'),
           ('Dingus Tryout', 'http://daringfireball.net/projects/markdown/dingus'),
-          ('PHP Markdown Extra', 'http://michelf.ca/projects/php-markdown/extra/'),
-          ('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),)
+          ('PHP Markdown Extra', 'http://michelf.ca/projects/php-markdown/extra/'),)
+#          ('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
 SOCIALCY = (('facebook', 'http://www.facebook.com/chenyenlai'),

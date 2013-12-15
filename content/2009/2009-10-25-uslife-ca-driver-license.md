@@ -2,7 +2,6 @@ Title: 考到加州駕照囉！
 Date: 2009-10-25 10:45:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 
 
 
 <div class='post'>

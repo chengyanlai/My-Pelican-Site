@@ -2,8 +2,6 @@ Title: Day 4 in U.S.A.
 Date: 2009-09-08 21:09:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 
-
 
 <div class='post'>
 昨日是labor day. 因為大家都放假，被迫過了無進度的一天。<br /><br />今日開好銀行帳戶，共花了一個小時等待，超過兩個半小時開三個人的戶頭。<br />原來這就是美國。<br /><br />看到喜歡的房子，但已過上班時間，只好明天再去簽約。<br />今天又要繼續寄人籬下的日子。</div>

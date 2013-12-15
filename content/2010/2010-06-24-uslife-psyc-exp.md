@@ -2,7 +2,6 @@ Title: 流淚的實驗告終
 Date: 2010-06-24 17:12:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 
 
 
 <div class='post'>

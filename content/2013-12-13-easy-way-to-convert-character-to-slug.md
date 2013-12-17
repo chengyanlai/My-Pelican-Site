@@ -1,5 +1,5 @@
 Date: 2013-12-13 15:50:01
-Title: easy-way-to-convert-character-to-slug
+Title: 繁體中文slug
 Author: Chen-Yen Lai
 Category: Python
 Tags: Static Site Builder

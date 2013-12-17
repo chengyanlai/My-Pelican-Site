@@ -1,0 +1,105 @@
+title: Basic Git Setting
+date: 2013-10-17 10:29 
+author: Chen-Yen Lai
+Category: Git
+Summary: Setup your own git
+
+First of all, you need to know that you have installed 'git' on you computer!
+You can search on Google "git osx" if you are on Mac. Usually you can find a `.dmg` to install.
+
+If you are on linux, for example Debian, you can use the `apt`. Like
+
+    :::bash
+    $ apt-cache search git
+
+to find the proper name for the package. Usually, the following command would work
+
+    :::bash
+    $ sudo apt-get install git
+
+. Make sure you are a `sudoer`! Then you are going through the installation.
+
+After that, we can start to set up.
+
+## Choose your name, and email.
+Basic setup before everything.
+
+    :::bash
+    $ git config --global user.name "{Your Name Here}"
+    $ git config --global user.email "{Your Email Here}"
+
+After this, you can see a file called `.gitconfig` at directory `${HOME}`. If you read it
+
+    :::bash
+    $ cat ${HOME}/.gitconfig
+
+, the file reads
+
+    :::bash
+    [user]
+      name = {Your Name Here}
+      email = {Your Email Here}
+
+
+## Alias setup
+For my personal favorite, I will setup the following alias for convenience.
+
+    :::bash
+    $ git config --global alias.st status
+    $ git config --global alias.ci commit
+    $ git config --global alias.co checkout
+
+In such a way, I can use like `git st` to check status.
+
+
+## Make it colorful
+By using the following command simply,
+
+    :::bahs
+    $ git config --global color.ui true
+    $ git config --global color.log auto
+
+## Default editor
+I am not a hard core `vim` user, so I choose `nano` or the TextMate command-line version.
+
+    :::bash
+    $ git config --global core.editor "mate -w"
+
+## Global usage
+If you want to have your own submit message, and do not want to type the same thing every time, try to organize the file like following
+
+    :::bash
+    [Subject Title]
+    (Description of changes)
+    [END]
+
+and save it as `{Your own directory}/gitmessage.txt`. Someone would like to save it at `${HOME}/.gitmessage.txt`.
+Then you need to do the following
+
+    :::bash
+    $ git config --global commit.template {Your own directory}/gitmessage.txt
+
+My personal favorite is to put the file in Dropbox, and set the directory there. In this way, I can have the same setting on each computer and all link to my Dropbox.
+
+You can do the same thing to the `.gitignore_global`
+
+    :::bash
+    $ git config --global core.excludesfile {Your own directory}/gitignore_global
+    
+Just make sure the file is there!
+
+## Do it all at once!
+Actually, you can write a file to execute and do all the above commands at once. Write a file like following and name it `Git_config.sh`
+
+{% include_code bash/Git_Config.sh %}
+
+, it will do it for you. You can save this file and use it in every computer basically.
+
+
+## The end
+At the end you will see the file `${HOME}/.gitcong` by just
+
+    :::bash
+    $ cat ${HOME}/.gitconfig
+
+to check your setting.

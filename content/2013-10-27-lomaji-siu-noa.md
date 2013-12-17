@@ -2,6 +2,7 @@ Date: 2013-10-27 21:00
 title: siu-noa 收涎
 Author: Chen-Yen Lai
 Category: Lo-ma-ji  
+Summary: 收涎台語歌謠
 
 今天受邀去參加Vivan 4個月siu-nōa（收涎）儀式，受邀念了下面的吉祥話：  
 要把這些用台語念出來一時間還真有些東西不是很容易找到合適的韻腳，所以用Lô-má-jī來表達。  

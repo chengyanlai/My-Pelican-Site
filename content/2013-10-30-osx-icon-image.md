@@ -2,6 +2,7 @@ Date: 2013-10-30 21:00
 title: OSX Folder Icon
 Author: Chen-Yen Lai
 Category: Gimp
+Summary: 使用免費的 Gimp 自己製作 OSX 的 Folder Icon
 
 Sometimes you just can't find the right folder icon for yourself. Why not make one from scratch?
 	:::ruby

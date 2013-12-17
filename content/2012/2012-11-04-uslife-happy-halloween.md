@@ -2,7 +2,7 @@ Title: Happy Halloween
 Date: 2012-11-04 23:42:00
 Author: Yao-An Chan
 Category: Kessler
-Tags: 育兒樂, 
+Tags: 育兒樂
 
 
 <div class='post'>

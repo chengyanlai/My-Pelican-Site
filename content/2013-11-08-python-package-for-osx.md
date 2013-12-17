@@ -2,6 +2,7 @@ Date: 2013-11-08 21:00
 title: Python package for OSX
 Author: Chen-Yen Lai
 Category: Python
+Summary: 在 OSX 上安裝 Python 的選擇
 
 ## First word, I am running OSX 10.8
 There are several choices on the market, including the apple one within the os. In order to get all I need at once, I usually choose one from the following. Of cause, you can download the source code and install from it. The advantage of using those packages is that they are well maintained. Thus, the update and upgrade are easier!
@@ -12,8 +13,6 @@ I feel it is slower than EPD.
 ### [Enthough Python Distribution(EPD)](https://www.enthought.com/products/epd/)
 It is now provided with the Canopy. I had hard time on installing it on a remote server which has no x-sesssion provided. Basically, I had hard time on setting up the environment on a remote server. If you know how, please leave a comment!  
 I think both Anaconda and EPD provide the installer for Windows and Linux[^1].
-
-
 
 ### [Scipy Superpack](http://fonnesbeck.github.io/ScipySuperpack/)
 This is the first thing I have tried and succeeded, easy and fast[^2]. 

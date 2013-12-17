@@ -2,7 +2,6 @@ Title: 倒數搬家的日子
 Date: 2010-12-12 22:43:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 
 
 
 <div class='post'>

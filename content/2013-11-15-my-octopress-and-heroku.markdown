@@ -3,7 +3,7 @@ Date: 2013-11-15 21:00
 Author: Chen-Yen Lai
 Category: misc
 Tags: Static Site Builder
-
+Summary: 在Octopress上建立中文 Categories Sidebar，Monthly Archives 以及 Author's archives，還有Font Face！
 
 Octopress的好處就是可以隨意的更改以及裝自己想要的plugin，或是你熟`Ruby`，你也可以自己寫plugin，剛設置好的blog其實已經很夠用，但是當你的blog漸漸壯大或是你要匯入你之前的文章(數百篇)，那加一些有用的plugin就變得很必要了！
 

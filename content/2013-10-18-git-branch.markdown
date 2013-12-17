@@ -2,7 +2,6 @@ title: Git branch for dummy
 date: 2013-10-18 15:13  
 Author: Chen-Yen Lai
 Category: Git
-Tags: 
 Slug: git-branch
 Summary: Basic git-branch usage
 

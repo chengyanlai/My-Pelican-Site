@@ -2,7 +2,6 @@ Title: 首度滑雪記
 Date: 2011-03-12 22:39:00
 Author: Yao-An Chan
 Category: Life@US
-Tags: 
 
 
 <div class='post'>

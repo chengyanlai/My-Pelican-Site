@@ -13,13 +13,12 @@ from pelicanconf import *
 SITEURL = 'http://www.chenyen-yaoan.tk'
 RELATIVE_URLS = False
 
-FEED_ATOM = "chenyenfeeds/main.xml"
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
-
+ADDTHIS_PROFILE = True # FB-like Gplus-one
 DISQUS_SITENAME = "mypelicansite"
 GOOGLE_ANALYTICS = "UA-45866413-1"

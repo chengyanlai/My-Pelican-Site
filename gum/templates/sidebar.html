@@ -5,7 +5,7 @@
 
 <h4><i class="icon-link icon-large"></i>Blog roll</h4>
 
- <ul>
+<ul id="side-list">
   {% for title, link in LINKS %}
       <li><a href="{{ link }}">{{ title }}</a></li>
   {% endfor %}
@@ -27,7 +27,7 @@
 
 <h4><i class="icon-folder icon-large"></i>Categories</h4>
 {% if categories %}
-<ul>
+<ul id="side-list">
 	{% for cat, null in categories %}
 		<li><a href="{{ SITEURL }}/{{ cat.url|e }}">{{ cat }} ({{ null | count }})
         </a></li>
@@ -48,7 +48,7 @@
 {% if SOCIALCY and SOCIALYA %}
 <nav class="widget">
   <h4><i class="icon-info icon-large"></i>Social</h4>
-  <ul>
+  <ul id="side-list">
   {% for name, url in SOCIALCY %}
     <li><a href="{{ url|e }}"><i class="icon-{{ name }} icon-large"></i>Chen-Yen's {{ name }}</a></li>
   {% endfor %}

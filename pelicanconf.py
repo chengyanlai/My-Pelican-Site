@@ -63,7 +63,6 @@ TWITTER_URL = "https://twitter.com/chenyenlai"
 GITHUB_URL = "https://github.com/chengyanlai"
 FACEBOOK_URL = "https://www.facebook.com/chenyenlai"
 GOOGLEPLUS_URL = "https://plus.google.com/+ChenYenLai"
-ADDTHIS_PROFILE = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = True
 TAG_CLOUD_STEPS = 4

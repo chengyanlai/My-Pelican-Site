@@ -295,22 +295,22 @@ ul, ol {
   margin-bottom: 0.273em;
 }
 
-/*ul { list-style-type: disc;
+ul { list-style-type: disc;
   ul { list-style-type: circle; margin-bottom: 0px;
     ul { list-style-type: square; margin-bottom: 0px; }}}
 
 ol { list-style-type: decimal;
   ol { list-style-type: lower-alpha; margin-bottom: 0px;
-    ol { list-style-type: lower-roman; margin-bottom: 0px; }}}*/
+    ol { list-style-type: lower-roman; margin-bottom: 0px; }}}
 
-ul {
+/*ul {
   list-style: none inside;
 }
 
 ol {
   list-style: decimal;
   margin-left: 30px;
-}
+}*/
 
 ul.square, ul.circle, ul.disc {
   margin-left: 25px;
@@ -6203,6 +6203,7 @@ Is this needed? It makes the ul slide in on hover :/
 
 .socbtns li {
   float: left;
+  list-style: none inside;
 }
 
 .socbtns li + li {

@@ -1,4 +1,4 @@
-Title: [Cook][食譜]新菜實驗之蔥燒排骨
+Title: [食譜] 新菜實驗之蔥燒排骨
 Date: 2009-09-23 15:06:00
 Author: Yao-An Chan
 Category: Cooking-Backing

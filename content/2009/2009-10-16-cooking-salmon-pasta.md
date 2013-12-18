@@ -1,4 +1,4 @@
-Title: [Cook][食譜]新菜實驗之白醬鮭魚蘆筍義大利麵
+Title: [食譜] 新菜實驗之白醬鮭魚蘆筍義大利麵
 Date: 2009-10-16 18:39:00
 Author: Yao-An Chan
 Category: Cooking-Backing

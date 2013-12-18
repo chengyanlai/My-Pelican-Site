@@ -2,6 +2,7 @@ Date: 2013-10-20
 Title: 小學生修圖 vol. 1
 Author: Chen-Yen Lai
 Category: Gimp
+Summary: 簡單修圖 - 快速增加明亮度以及飽和度
 
 不知道大家是不是都有錢可以買Photoshop，或是總是可以找到ＯＯＸＸ。如果像我一樣怕死或是沒有時間去好好Google，可以試試看[Gimp](http://www.gimp.org)。唯一的缺點似乎是所謂「錄製某一些動作」然後「批次處理」沒有Photoshop來得方便！所以Gimp下只好學習如何使用python-fu以及script-fu。
 

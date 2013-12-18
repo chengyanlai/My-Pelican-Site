@@ -1,4 +1,4 @@
-Title: [Cook][食譜]新菜實驗之可樂餅
+Title: [食譜] 新菜實驗之可樂餅
 Date: 2009-09-30 22:16:00
 Author: Yao-An Chan
 Category: Cooking-Backing

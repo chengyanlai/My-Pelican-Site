@@ -1,4 +1,4 @@
-Title: [Cook][食譜]吃不完馬鈴薯系列- 馬鈴薯沙拉、焗烤馬鈴薯
+Title: [食譜] 吃不完馬鈴薯系列- 馬鈴薯沙拉、焗烤馬鈴薯
 Date: 2009-10-07 15:28:00
 Author: Yao-An Chan
 Category: Cooking-Backing

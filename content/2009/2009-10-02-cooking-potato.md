@@ -1,4 +1,4 @@
-Title: [Cook][食譜]吃不完馬鈴薯系列-牧羊人派
+Title: [食譜] 吃不完馬鈴薯系列-牧羊人派
 Date: 2009-10-02 14:18:00
 Author: Yao-An Chan
 Category: Cooking-Backing

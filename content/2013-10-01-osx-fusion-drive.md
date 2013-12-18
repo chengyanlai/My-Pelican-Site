@@ -17,16 +17,17 @@ First to check your storage and find their Volume ID by entering the following i
 
 ### Create CoreStorage
 After obtaining the two storage you want to setup as a single Fusion drive, you can use the command
+
 	:::bash
     $ diskutil cs create {drivename} {driveIDs}
 
 . This command can be broken down into
 
-1. diskutil - the command-line version of Disk Utility.
-2. cs -  Core Storage in short, which is necessary for Fusion.
-3. creat - creates a Core Storage group.
-4. drivername -  this is the name of the drive and how you want it to appear in Disk Utility (not the Finder – that comes later). You can call it whatever you want!
-5. driveIDs - these are the drive IDs of the drives you want as part of your Fusion, separated by a space.
+- diskutil - the command-line version of Disk Utility.
+- cs -  Core Storage in short, which is necessary for Fusion.
+- creat - creates a Core Storage group.
+- drivername -  this is the name of the drive and how you want it to appear in Disk Utility (not the Finder – that comes later). You can call it whatever you want!
+- driveIDs - these are the drive IDs of the drives you want as part of your Fusion, separated by a space.
 
 ### Format CoreStorage
 Then, we need to obtain the {groupString} to format the Fusion drive. Using the following command
@@ -41,9 +42,9 @@ Then, we need to obtain the {groupString} to format the Fusion drive. Using the 
 
 , where
 
-1. jhfs+ – the format of the drive. This is Apple Extended Format (journaled), which is recommended for drives with an OS installed on it.
-2. volumeName - the actual name of the volume, how it should appear underneath the icon.
-3. size - this is the size of the volume.
+- jhfs+ – the format of the drive. This is Apple Extended Format (journaled), which is recommended for drives with an OS installed on it.
+- volumeName - the actual name of the volume, how it should appear underneath the icon.
+- size - this is the size of the volume.
 
 ### Reboot and Install OSX!
 

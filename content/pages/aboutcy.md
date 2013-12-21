@@ -11,6 +11,8 @@ Feel free to contact me via [email](mailto:chengyanlai@gmail.com).
 
 ## Academic Background
 
+[Curriculum Vitae](../pdf/Curriculum_Vitae.pdf) and [Publication list](../pdf/Publication_List.pdf).
+
 ###***Education***
 
 - Ph.D Candidate, Physics, [University of California Riverside](http://www.ucr.edu).  
@@ -23,6 +25,10 @@ Feel free to contact me via [email](mailto:chengyanlai@gmail.com).
     Sep. 2001 - Jun. 2005.  
 
 ###***Research***
+
++ Graduate Student Research, [University of California Riverside](http://www.ucr.edu).  
+    PI: [Shan-Wen Tsai](http://www.physics.ucr.edu/people/faculty/tsai.html)  
+    Sep. 2009 - Present. 
 
 + Research Assistance, [National Tsing Hua University](http://www.nthu.edu.tw).  
     Supervisor: [Pochung Chen](http://qubit.phys.nthu.edu.tw/~pcchen/wp/)  

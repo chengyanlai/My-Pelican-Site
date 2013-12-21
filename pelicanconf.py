@@ -51,7 +51,7 @@ MENUITEMS = ()
 ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 
-STATIC_PATHS = ['images', 'code']
+STATIC_PATHS = ['images', 'code', 'pdf']
 NOTEBOOK_DIR = 'code/python/notebooks'
 
 USE_FOLDER_AS_CATEGORY = False

@@ -3,7 +3,7 @@ Title: 2013 冬季公路旅行 Grand Loop Bryce - Day2: Queens Garden and Navajo
 Author: Yao-An Chan
 Category: Travel
 Tags: NationPark, BryceCanyon
-Slug: grand-loop-bryce
+Slug: np-bryce-canyon-day2
 Summary: 冬天的Bryce Canyon，寒風中的Silent City!
 Status: draft
 
@@ -50,3 +50,7 @@ Bryce的日出是必安排的行程，通常比較熱門的景點是Inspiration 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/11631202884/in/set-72157639168454753/player/" width="500" height="398" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/11630764385/in/set-72157639168454753/player/" width="1024" height="221" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+##Last Word
+
+這是我們第二到 Bryce Canyon，其實如果不是很在意要拍日出，我覺得是可以不用過夜，但是就行程而言，過夜會比較輕鬆，無論下一個點是Capitol Reef或是Grand Canyon North Rim！

@@ -1,4 +1,5 @@
-Date: 2013-12-30 10:52:13
+Date: 2013-12-24 10:52:13
+Modified: 2013-12-30 10:52:13
 Title: 2013 冬季公路旅行 Grand Loop Bryce - Day2: Queens Garden and Navajo Loop
 Author: Yao-An Chan
 Category: Travel

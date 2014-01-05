@@ -2,7 +2,7 @@ Date: 2013-12-13 15:50:01
 Title: 繁體中文slug
 Author: Chen-Yen Lai
 Category: Python
-Tags: Website Builder
+Tags: WebsiteBuilder
 Slug: easy-way-to-convert-character-to-slug
 Summary: 轉換中文字體成unicode編碼拼音
 

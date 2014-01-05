@@ -2,7 +2,7 @@ Title: My Octopress and Heroku - 1
 Date: 2013-11-13 22:46
 Author: Chen-Yen Lai
 Category: misc  
-Tags: Website Builder
+Tags: WebsiteBuilder
 Summary: 如何安裝 Octopress，以及部署到 Heroku App！
 
 ## 前言

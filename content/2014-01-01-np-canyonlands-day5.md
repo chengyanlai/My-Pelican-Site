@@ -1,4 +1,5 @@
-Date: 2014-01-01 12:35:01
+Date: 2013-12-27 12:35:01
+Modified: 2014-01-01 12:35:01
 Title: 2013 冬季公路旅行 Grand Loop Canyonlands - Day5: Island in the Sky
 Author: Yao-An Chan
 Category: Travel

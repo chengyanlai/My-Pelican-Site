@@ -29,6 +29,6 @@ Wizard Island 本身是一座 Cinder Cone 火山，島上有放風行程，可�
 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/9437563313/in/set-72157634904831540/player/" width="332" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-## Last Word
+## Final Word
 
 我們在這裡算是玩了一天半，我覺得整個兩天可以很充實也很足夠，這不是個趕場的國家公園，最好是可以住在Crater Lake Lodge好好享受Crater Lake 24hr不同的景色！如果可以，外加半天的遊湖行程應該可以非常滿足。

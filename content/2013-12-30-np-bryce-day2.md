@@ -52,6 +52,6 @@ Bryce的日出是必安排的行程，通常比較熱門的景點是Inspiration 
 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/11630764385/in/set-72157639168454753/player/" width="1024" height="221" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-##Last Word
+##Final Word
 
 這是我們第二到 Bryce Canyon，其實如果不是很在意要拍日出，我覺得是可以不用過夜，但是就行程而言，過夜會比較輕鬆，無論下一個點是Capitol Reef或是Grand Canyon North Rim！

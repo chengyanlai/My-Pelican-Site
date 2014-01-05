@@ -48,7 +48,7 @@ Emerald Lake顧名思義就是深綠的湖，這裡比較少人在玩水，戲�
 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/9415260087/in/set-72157634856637025/player/" width="332" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-## Last Word
+## Final Word
 這是一個我很推薦的公園，尤其是住在北加的人，比起優勝美地搶劫的物價，這裡無論從事什麼活動都可以很省錢跟時間，再加上沒有什麼人，可以很愜意的好好玩耍放鬆。  
 缺點我想是住宿的方便性吧，我覺得露營絕對是第一選擇，營地其實不難訂，設施也很齊全，但是沒有辦法接受露營的人就只能住Lassen Mineral Lodge，要不就要犧牲時間開車到Redding去住。   
 這絕對是一個可以慢慢玩，好好放鬆的公園，他有很多Family Friendly的步道，如果對爬上火山沒有信心，也還有東西可以玩可以看！  

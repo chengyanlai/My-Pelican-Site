@@ -84,7 +84,7 @@ Status: draft
 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/11637512866/in/set-72157639177036583/player/" width="500" height="332" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-##Last Word
+##Final Word
 
 我覺得 Arches and Canyonlands 要玩沾醬油行程真的是很浪費。我們因為是冬天的行程，因此 Devil's Garden 只走到 Landscape Arch，一來是Ranger不建議，二來走在結冰積雪的Fin上，或許沒小孩的我還會考慮，但是帶著小孩實在是太拼了！保守估計Arches應該可以玩個整整兩天沒有問題！  
 早上去 Devil's Garden + Sand Dune Arch + Broken Arch + Skyline Arch(5-6 hrs)，然後到 Delicate Arch看日落，隔天從 Windows Section玩起，然後看是要走 Fiery Furnace 或是開 unpaved road 到 Tower Arch，這樣基本上就可以把藏了2000多個Arch的 Arches National Park 玩得差不多了！

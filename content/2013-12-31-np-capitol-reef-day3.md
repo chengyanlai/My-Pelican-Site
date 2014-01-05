@@ -21,7 +21,7 @@ Status: draft
 
 <iframe src="http://www.flickr.com/photos/xavierweathertoplai/11633402966/in/set-72157639175034913/player/" width="500" height="332" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-##Last Word
+##Final Word
 
 這裡是小Ｋ最愛的一個點，因為爸爸媽媽沒有Hiking，而且氣溫非常宜人！
 

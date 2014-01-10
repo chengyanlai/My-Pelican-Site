@@ -28,3 +28,4 @@ Open Source Software
 + [DMRG from Garnet Chan](http://www.princeton.edu/chemistry/chan/software/dmrg/)
 + [DMET from Garnet Chan](http://www.princeton.edu/chemistry/chan/software/dmet/)
 + [MPS from Garnet Chan](http://www.princeton.edu/chemistry/chan/software/ttn/)
++ [ITensor](http://itensor.org/index.html)

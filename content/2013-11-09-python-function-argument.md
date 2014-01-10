@@ -1,4 +1,5 @@
 Date: 2013-11-09 21:00  
+Modified: 2014-01-10 12:29
 title: Python function *arg and **kwarg  
 Author: Chen-Yen Lai
 Category: Python
@@ -78,3 +79,7 @@ Result shows
     keyword argument: a= 3.0 b= 4.0 c= 5.0
 
 Enjoy powerful python.
+
+### The order of arguments - Python Syntax
+
+Be careful when you call a function, we always put non-keyword argument in front of keyword argument. 

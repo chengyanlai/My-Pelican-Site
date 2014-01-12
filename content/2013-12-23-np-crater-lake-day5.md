@@ -1,6 +1,6 @@
 Date: 2014-01-04 14:00
 Title: 2013 夏季公路旅行 Summer Road Trip Crater Lake - Day5 : Garfield Peak, Cleetwood Cove Trail
-Author: Yao-An Chan
+Author: Chen-Yen Lai
 Category: Travel
 Tags: NationalPark, CraterLake
 Slug: np-crater-lake-day5

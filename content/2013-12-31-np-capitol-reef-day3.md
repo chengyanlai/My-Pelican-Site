@@ -1,12 +1,10 @@
-Date: 2013-12-25 12:26:10
-Modified: 2013-12-31 12:26:10
+Date: 2014-02-08 01:00:10
 Title: 2013 冬季公路旅行 Grand Loop Capitol Reef - Day3: Scenic Drive
-Author: Yao-An Chan
+Author: Chen-Yen Lai
 Category: Travel
-Tags: NationPark, CapitolReef
+Tags: NationalPark, CapitolReef
 Slug: np-capitol-reef-day3
 Summary: 好像劃不到重點的Capitol Reef!
-Status: draft
 
 其實出發前我們並沒有對這個國家公園做任何的功課，這天基本上是趕路的停下來休息的一樣，所性這樣的行程並沒有讓我們太失望！
 

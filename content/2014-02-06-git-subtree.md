@@ -65,3 +65,20 @@ Add folder as a git submodule to super-project
     
 For detailed documentation (man page), please read [git-subtree.txt](https://github.com/apenwarr/git-subtree/blob/master/git-subtree.txt).  
 Thanks to [this post at StackOverflow](http://stackoverflow.com/a/1307969/3011790).
+
+## Delete a submodule
+
+First, following command removes the whole `submodule.<name>` section from `.git/config` for the given submodule.
+    
+    :::bash
+    $ git submodule deinit foo
+    
+Next, Let `git rm` help us by not only removing the submodule from the work tree but by also removing the `submodule.<submodule name>` section from the `.gitmodules` file and stage both.  
+
+    :::bash
+    $ git rm -rf foo
+
+Finally, remove it from working tree by
+
+    :::bash
+    $ git rm --cached foo

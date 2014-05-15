@@ -2,7 +2,7 @@ Title: 2009 在美遊記：Universal Studios
 Date: 2010-02-01 14:17:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行
+Tags: 美國旅行, CA
 
 
 <div class='post'>

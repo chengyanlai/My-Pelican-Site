@@ -2,7 +2,7 @@ Title: 2012美國國家公園六日遊 Bryce Canyon National Park － Day3: Nava
 Date: 2012-09-25 00:50:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行, NationalPark, BryceCanyon
+Tags: 美國旅行, NationalPark, BryceCanyon, UT
 Slug: bryce-canyon-np-1
 
 <div class='post'>

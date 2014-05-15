@@ -2,7 +2,7 @@ Title: 2011夏天的優勝美地五日遊 Yosemite National Park - Day1: Mono La
 Date: 2012-04-19 17:07:00
 Author: Yao-An Chan
 Category: Travel
-Tags: NationalPark, Yosemite, 美國旅行
+Tags: NationalPark, Yosemite, 美國旅行, CA
 Slug: yosemite-np-1
 
 <div class='post'>

@@ -2,7 +2,7 @@ Date: 2014-02-08 00:30:13
 Title: 2013 冬季公路旅行 Grand Loop Bryce - Day2: Queens Garden and Navajo Loop
 Author: Chen-Yen Lai
 Category: Travel
-Tags: NationalPark, BryceCanyon
+Tags: NationalPark, BryceCanyon, UT
 Slug: np-bryce-canyon-day2
 Summary: 冬天的Bryce Canyon，寒風中的Silent City!
 

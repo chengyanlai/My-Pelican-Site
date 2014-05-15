@@ -2,7 +2,7 @@ Date: 2014-01-03 22:16:46
 Title: 2013 夏季公路旅行 Summer Road Trip Lassen Volcanic - Day3 : Cinder Cone, Emerald Lake, and Lake Helen
 Author: Chen-Yen Lai
 Category: Travel
-Tags: NationalPark, LassenVolcanic
+Tags: NationalPark, LassenVolcanic, CA
 Slug: np-lassen-volcanic-day3
 Summary: 走三步滑一步的Cinder Cone火山...
 

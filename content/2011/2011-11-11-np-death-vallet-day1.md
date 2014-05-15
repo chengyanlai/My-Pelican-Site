@@ -2,7 +2,7 @@ Title: 2011春遊死谷 Death Valley National Park - Day1
 Date: 2011-11-11 15:44:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行, NationalPark, DeathValley
+Tags: 美國旅行, NationalPark, DeathValley, CA
 Slug: death-valley-np-1
 
 <div class='post'>

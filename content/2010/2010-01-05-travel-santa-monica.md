@@ -2,7 +2,7 @@ Title: 2009 在美遊記：Santa Monica
 Date: 2010-01-05 15:33:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行
+Tags: 美國旅行, CA
 
 
 <div class='post'>

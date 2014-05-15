@@ -2,7 +2,7 @@ Date: 2014-01-04 23:00
 Title: 2013 夏季公路旅行 Summer Road Trip Crater Lake - Day6 : Watchman Overlook, Phantom Ship Viewpoint
 Author: Chen-Yen Lai
 Category: Travel
-Tags: NationalPark, CraterLake
+Tags: NationalPark, CraterLake, OR
 Slug: np-crater-lake-day6
 Summary: 說是船，但是卻比很多船要大的Phantom Ship
 

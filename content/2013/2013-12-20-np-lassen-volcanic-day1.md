@@ -2,7 +2,7 @@ Date: 2014-01-03 12:16:46
 Title: 2013 夏季公路旅行 Summer Road Trip Lassen Volcanic - Day1 : Cold Boiling Lake, Crumbaugh Lake, and Manzanita Lake 
 Author: Chen-Yen Lai
 Category: Travel
-Tags: NationalPark, LassenVolcanic
+Tags: NationalPark, LassenVolcanic, CA
 Slug: np-lassen-volcanic-day1
 Summary: Another view of Lassen Park - Lakes
 

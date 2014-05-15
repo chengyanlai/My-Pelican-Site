@@ -2,7 +2,7 @@ Title: 2010 PCH CA-1 加州一號公路旅行 Day3: 17 Miles Dr., UCSC, Santa Cr
 Date: 2010-10-07 14:35:00
 Author: Yao-An Chan
 Category: Travel
-Tags: 美國旅行
+Tags: 美國旅行, CA
 
 
 <div class='post'>

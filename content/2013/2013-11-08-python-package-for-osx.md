@@ -18,6 +18,9 @@ I think both Anaconda and EPD provide the installer for Windows and Linux[^1].
 This is the first thing I have tried and succeeded, easy and fast[^2]. 
 
 ### [Homebrew](http://brew.sh/)
+
+UPDATED 05/20/2014: We have another post regarding [Homebrew Python installation](|filename|../2014/2014-05-20-python-homebrew-package.md).
+
 The similar alternatives are [Macport](http://www.macports.org/) and [Fink](http://fink.thetis.ig42.org/). Th detail difference are compared by [Ted Wise](http://tedwise.com/2010/08/28/homebrew-vs-macports/)
 Example(Homebrew):
 Installation is super easy, it is depended on ruby and git.   

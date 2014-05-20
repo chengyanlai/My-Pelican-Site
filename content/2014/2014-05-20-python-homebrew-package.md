@@ -6,10 +6,11 @@ Slug: homebrew-python
 Summary: 在 OSX 上使用 Homebrew 安裝 Python - Updated!
 
 在 OSX 上使用 Homebrew 安裝 Python - Updated!  
-
-The following steps are referenced from [Jorn's blog](http://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/).
+安裝順序是重要的！如果發現有問題，請重新安裝。
 
 ## Set up some taps and update Homebrew
+
+確保 Homebrew 運作正常，加入安裝 Python 需要的 repo。 並且更新 Homebrew！
 
     ::bash
     $ brew doctor
@@ -20,23 +21,27 @@ The following steps are referenced from [Jorn's blog](http://joernhees.de/blog/2
 
 ## Install Homebrew python
 
+安裝 Homebrew 的 python。
+
     ::bash
     $ brew install python
     
 ## Check the python you are using
 
-To make sure that you are using the Homebrew python, not system python.
+確認你的 python 是 Homebrew 的，不是系統提供的.
 
     ::bash
     $ which python
     # should be /usr/local/bin/python
     $ echo $PATH
     
-`/usr/local/bin` should be in front of `/usr/bin`!
+`/usr/local/bin` should be in front of `/usr/bin`!  
+若是系統提供的 python，必須修改 `~/.bash_profile` 裡面的 `PATH`，像是加入`export PATH="/usr/local/bin:$PATH"`.
 
 ## Install PIL, imagemagick, graphviz and other
 
-Image generating stuff (qt is nice for viewing).
+Image generating stuff (qt is nice for viewing).  
+一些圖形界面的 package。
 
     ::bash
     $ ln -s /usr/local/include/freetype2 /usr/local/include/freetype # seems freetype can't be found on some systems otherwise
@@ -80,7 +85,8 @@ Math Plot Library ([matplotlib](http://matplotlib.org)) for plotting.
 
     $ brew install matplotlib
 
-This is Symbolic python ([SymPy](http://sympy.org/en/index.html)).
+This is Symbolic python ([SymPy](http://sympy.org/en/index.html)).  
+I hope this can beat Mathematica in the future!
 
     ::bash
     $ pip install sympy q
@@ -91,8 +97,19 @@ If you are a theoretical physicist, you must try ipython notebook!
     ::bash
     $ brew install zmq
     $ pip install ipython[zmq,qtconsole,notebook,test]
+    
+#### 使用 ipython notebook
 
-HTML stuff (parsing),
+在終端機下直接執行
+
+    ::bash
+    $ ipython notebook
+
+就會開啟網頁版ipython.
+    
+### HTML stuff
+
+Parsing,
 
     ::bash
     $ pip install html5lib cssselect pyquery lxml BeautifulSoup
@@ -111,3 +128,6 @@ Run python scripts in the cloud
 
     ::bash
     $ pip install cloud
+    
+
+Those steps are referenced from [Jorn's blog](http://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/).

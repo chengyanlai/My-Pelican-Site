@@ -17,7 +17,7 @@ Feel free to contact me via [email](mailto:chengyanlai@gmail.com).
 ###***Research***
 
 + Postdoctoral Research Scholar , [University of California Merced](http://www.ucmerced.edu).  
-    Supervisor: [Chih-Chun Chien]()  
+    Supervisor: [Chih-Chun Chien](https://sites.google.com/site/chienchihchun/)  
     Aug. 2014 - Present. 
 
 + Graduate Student Research, [University of California Riverside](http://www.ucr.edu).  

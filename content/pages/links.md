@@ -4,18 +4,15 @@ slug: 9-links
 
 Python Packages
 ---
++ I personally recommend Homebrew python on OSX!
 + [Continuum Analysis (Anaconda)](http://www.continuum.io/)
 + [Enthought (EPD Canopy)](https://www.enthought.com/products/epd/)
 + [Scipy Superpack](http://fonnesbeck.github.io/ScipySuperpack/)
++ [virtualenv](http://www.virtualenv.org): Virtual Environment for Python, better with `virtualenvwrapper`.
++ [f2py](http://www.f2py.com): Connection between Fortran and Python language, see [Ref](http://cens.ioc.ee/projects/f2py2e/).
 + [Sympy](http://docs.sympy.org/latest/index.html): Symbolic python!
 + [Kwant](http://kwant-project.org/): Quantum transport simulator.
-+ [f2py](http://www.f2py.com): Connection between Fortran and Python language, see [Ref](http://cens.ioc.ee/projects/f2py2e/).
-+ [virtualenv](http://www.virtualenv.org): Virtual Environment for Python.
-
-Misc
----
-+ [Pro Git](http://git-scm.com/book)
-+ [Bash Scripting](http://www.tldp.org/LDP/abs/html/)
++ [QuTIP](http://qutip.org): Quantum Toolbox in Python.
 
 Open Source Software
 ---
@@ -30,4 +27,9 @@ Open Source Software
 + [MPS from Garnet Chan](http://www.princeton.edu/chemistry/chan/software/ttn/)
 + [ITensor](http://itensor.org/index.html)
 + [POWDER - tDMRG](http://qti.sns.it/dmrg/phome.html)
-+ [QuTIP](http://qutip.org)
+
+Misc
+---
++ [Pro Git](http://git-scm.com/book)
++ [Bash Scripting](http://www.tldp.org/LDP/abs/html/)
++ [My IPython Notebook on GitHub](http://nbviewer.ipython.org/github/chengyanlai/ipython_notebook/tree/master/)

@@ -50,10 +50,12 @@ Image generating stuff (qt is nice for viewing).
     $ brew install py2cairo # this will ask you to download xquartz and install it
     $ brew install qt pyqt
 
-## Install nose and VirtualENV
+## Install nose and Virtual Environment
 
     ::bash
-    $ pip install virtualenv nose
+    $ pip install virtualenv virtualenvwrapper nose
+
+請看[另一篇 post](|filename|./2014-05-21-python-virtualenv.md) 有關如何使用 virtualenv
 
 ## Install numpy and scipy
 
@@ -83,6 +85,7 @@ PANDAS (Python Data Analysis Library), especially time series stuff, and NITK (n
     
 Math Plot Library ([matplotlib](http://matplotlib.org)) for plotting.
 
+    ::bash
     $ brew install matplotlib
 
 This is Symbolic python ([SymPy](http://sympy.org/en/index.html)).  

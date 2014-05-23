@@ -48,7 +48,7 @@ Image generating stuff (qt is nice for viewing).
     $ brew install pillow imagemagick graphviz
     $ brew install cairo --without-x
     $ brew install py2cairo # this will ask you to download xquartz and install it
-    $ brew install qt pyqt
+    $ brew install qt pyqt  # qt 經常是其他元件的 requirement 像是 ipython
 
 ## Install nose and Virtual Environment
 
@@ -62,15 +62,19 @@ Image generating stuff (qt is nice for viewing).
 You can choose to use `openblas` or not. If so, run
 
     ::bash
+    # This is optional!
     $ brew install openblas
 
 then,
 
     ::bash
+    # If you use openblas, please comment out below.
     $ brew install numpy # --with-openblas
     $ brew install scipy # --with-openblas
 
 ### Test the numpy and scipy installation
+
+測試是否已經安裝完成...
 
     ::bash
     $ brew test numpy
@@ -78,7 +82,9 @@ then,
 
 ### Some cool python libraries
 
-PANDAS (Python Data Analysis Library), especially time series stuff, and NITK (natural language toolkit).
+一些科學用途的套件！
+
+Python Data Analysis Library ([pandas](http://pandas.pydata.org)), especially time series stuff, and natural language toolkit ([nltk](http://www.nltk.org)).
 
     ::bash
     $ pip install pandas nltk
@@ -108,9 +114,11 @@ If you are a theoretical physicist, you must try ipython notebook!
     ::bash
     $ ipython notebook
 
-就會開啟網頁版ipython.
+就會開啟網頁版 ipython ，建議搭配 GitHub 跟 [nbviewer](http://nbviewer.ipython.org) 一起使用，可以快速上線筆記！
     
 ### HTML stuff
+
+基本上我使用 python 使科學用途，比較少用網頁元件，以下只是參考。
 
 Parsing,
 

@@ -109,6 +109,7 @@ github: publish
 	git push origin gh-pages
 
 deploy: publish
+	git pull
 	cd $(PUBLISHDIR) &&	rm -rf *html author blog category feeds pages tag theme
 	cp -rf $(OUTPUTDIR)/* $(PUBLISHDIR)/
 	cd $(PUBLISHDIR) &&	git add . -A

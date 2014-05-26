@@ -19,6 +19,17 @@ Summary: 如何根據 Project 管理 Python 使用環境
 
 `virtualenvwrapper` 並不一定是需要的，但是可以讓管理env更省時省力！  
 
+#### 設定 virtualenvwrapper
+
+加入下列兩行在 `.bash_profile`
+
+	::bash
+	export WORKON_HOME=~/.virtualenvs
+	source /usr/local/bin/virtualenvwrapper.sh
+
+第一行裡的 `.virtualenvs` 是管理所有環境的資料夾，必須手動建立！資料夾名稱可以自行決定。  
+設定好了之後，請重新開一個視窗或是 `source ~/.bash_profile`.
+
 #### 建立環境
 
 我們這裡介紹的是有使用 virtualenvwrapper 的方法！

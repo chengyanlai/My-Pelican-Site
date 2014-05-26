@@ -35,7 +35,8 @@ Summary: 如何根據 Project 管理 Python 使用環境
     # all available ENV names will be shown here
     $ workon {ENV name}
     (ENV name) $ which python
-    # Now, you know this is a enviroment python!
+    # Now, you know this is an enviroment python!
+    # something like /Users/.../.virtualenvs/{ENV name}/bin/python
 
 這樣建立的環境只會有你原本的 python，其他的 site packages 並不會進來！  
 如果你想要建立一個擁有所以已經安裝的 site packages 的環境，只需要加上 `--system-site-packages` 像是

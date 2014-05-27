@@ -72,4 +72,4 @@ TAG_CLOUD_STEPS = 4
 PLUGIN_PATH = './plugins'
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.include_code',
-           'liquid_tags.notebook','latex','googleplus_comments']
+           'liquid_tags.notebook','render_math','googleplus_comments']

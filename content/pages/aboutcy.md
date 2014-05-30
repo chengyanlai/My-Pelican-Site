@@ -48,12 +48,12 @@ Feel free to contact me via [email](mailto:chengyanlai@gmail.com).
 
 #### Teaching Assistant, University of California Riverside
 
-* (2013 Fall) Phys 150A - Introduction to Condensed Matter Physics
-* (2013 Fall) Phys 210A - Electromagnetism
+* (2013 Fall) Phys 150A - Introduction to Condensed Matter Physics (Lower level)
+* (2013 Fall) Phys 210A - Electromagnetism (Upper level)
 * (2013 Spring) Phys 2LA - General Physics Lab
-* (2013 Winter) Phys 210B - Electromagnetism
-* (2013 Winter) Phys 212A - Statistical Mechanics
-* (2011 Spring) Phys 210C - Electromagnetism
+* (2013 Winter) Phys 210B - Electromagnetism (Upper level)
+* (2013 Winter) Phys 212A - Statistical Mechanics (Upper level)
+* (2011 Spring) Phys 210C - Electromagnetism (Upper level)
 * (2011 Spring) Phys 40C Lab - General Physics Lab
 * (2011 Winter) Phys 40B Lab - General Physics Lab
 * (2010 Fall) Phys 40C Lab - General Physics Lab

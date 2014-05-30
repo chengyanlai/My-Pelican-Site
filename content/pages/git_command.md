@@ -1,7 +1,6 @@
 Title: Git
 Date: 2014-05-29 09:00
 slug: 8-git
-status: hidden
 
 Here is my favorite Git command and some git related posts.  
 Some prior setups needed, please see [Git Setup](|filename|../2013/2013-10-17-git-setup.markdown).
@@ -26,7 +25,7 @@ Tags
     $ git tag -d <tag name>
     # To push all tags
     $ git push origin --tags
-    # To list
+    # To list all tags
     $ git tag
     # pattern?
     $ git tag -l <pattern>
@@ -54,7 +53,7 @@ Stash
     $ git stash
     $ git stash pop
 
-See log ()
+See log
 
     ::bash
     $ git slog # git log --oneline -20
@@ -75,8 +74,8 @@ List files under version control
     $ git ls-files
 
 ### Posts
-[Git Setup](|filename|../2013/2013-10-17-git-setup.markdown)
-[Git Branch](|filename|../2013/2013-10-18-git-branch.markdown)
-[Git Tag](|filename|../2013/2013-12-16-git-tag.md)
-[Git Stash](|filename|../2014/2014-01-06-git-stash.md)
-[Git Subtree](|filename|../2014/2014-02-06-git-subtree.md)
+[Git Setup](|filename|../2013/2013-10-17-git-setup.markdown)  
+[Git Branch](|filename|../2013/2013-10-18-git-branch.markdown)  
+[Git Tag](|filename|../2013/2013-12-16-git-tag.md)  
+[Git Stash](|filename|../2014/2014-01-06-git-stash.md)  
+[Git Subtree](|filename|../2014/2014-02-06-git-subtree.md)  

@@ -5,7 +5,6 @@ Category: Python
 Tags: WebsiteBuilder
 Slug: ipython-notebook-pelican
 Summary: 建立 Pelican Blog 發佈 IPython notebook
-Status: draft
 
 ## 安裝 Pelican
 
@@ -44,10 +43,6 @@ Status: draft
     (pelican) $ ./develop_server.sh stop
 
 就可以停止 localhost。
-
-### Basic Post and Page
-
-To be updated......
 
 ## 安裝 Pelican Theme
 

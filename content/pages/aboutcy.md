@@ -44,6 +44,15 @@ Feel free to contact me via [email](mailto:chengyanlai@gmail.com).
 + [My Publication on arXiv.](http://arxiv.org/a/lai_c_1)
 + [My Google Scholar Page.](http://scholar.google.com/citations?hl=en&user=0WdC3WkAAAAJ)
 
+###***Award***
+
++ **2014 Robert T. Poe Memorial Scholarship Award for Outstanding PhD Graduate.**  
+    Presented by the Department of Physics and Astronomy, University of California Riverside.
++ **2011 Outstanding Teaching Assistant for academic year.**  
+    Presented by the Department of Physics and Astronomy and by the Graduate Division at University of California Riverside.
++ **2008 Annual Student Journal Paper Award**  
+    Presented by the Department of Physics at National Tsing Hua University for excellence in graduate student research work.
+
 ###***Teaching***
 
 #### Teaching Assistant, University of California Riverside

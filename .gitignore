@@ -3,3 +3,4 @@
 output/
 deploy/
 .DS_Store
+cache

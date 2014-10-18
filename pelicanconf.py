@@ -69,7 +69,7 @@ DISPLAY_PAGES_ON_MENU = True
 TAG_CLOUD_STEPS = 4
 
 # For Plugins
-PLUGIN_PATH = './plugins'
+PLUGIN_PATHS = ['./plugins',]
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.include_code',
            'liquid_tags.notebook','render_math','googleplus_comments']

@@ -35,12 +35,16 @@ Tags
 Branch
 
     ::bash
-    # To create
+    # create
     $ git branch <branch name>
-    # To delete
+    # or
+    $ git co -b <branch name>
+    # delete
     $ git branch -d <branch name>
-    # To update
+    # update
     $ git rebase master
+    # rename
+    $ git branch -m <oldname> <newname>
 
 Rebase/Merge tool
 

@@ -1,8 +1,8 @@
-Title: Bash
+Title: Terminal
 Date: 2014-10-10 09:00
-slug: 7-bash
+slug: 7-termianl
 
-Here is my bash cheat sheet
+# Bash
 
 ## Terminal shortcut
 * 'ctrl-a': Cursor to start of line  
@@ -22,6 +22,12 @@ Here is my bash cheat sheet
 
 , which will copy foo1.txt and foo2.txt to {folder pattern}
 
+## wird search - ack
+to give exact match
+
+    ::bash
+    $ ack -w {PATTERN}
+
 ## free linux cache
 
     ::bash
@@ -32,6 +38,17 @@ Here is my bash cheat sheet
     ::bash
     $ free -g
 
-### Posts
+# Grid Engine
+## change queue
+
+    ::bash
+    $ qalter -q {quene.q} {job id}
+
+## batch delete queue
+
+    ::bash
+    $ qdel `seq {from job id} {to job id}`
+
+# Posts
 [Multiple copy](|filename|../2014/2014-03-14-bash-tips.md)  
 [SSH](|filename|../2013/2013-10-15-ssh-without-password.md)  

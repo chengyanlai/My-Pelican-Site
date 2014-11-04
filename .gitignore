@@ -4,3 +4,4 @@ output/
 deploy/
 .DS_Store
 cache
+.python-version

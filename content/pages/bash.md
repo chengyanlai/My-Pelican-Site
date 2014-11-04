@@ -2,7 +2,14 @@ Title: Terminal
 Date: 2014-10-10 09:00
 slug: 7-termianl
 
-# Bash
+# Bash/Zsh
+
+## Very handy shell - [Oh-my-zsh](http://ohmyz.sh)
+Useful plugins:
+* gitfast
+* rsync
+* brew
+* autopep8
 
 ## Terminal shortcut
 * 'ctrl-a': Cursor to start of line  
@@ -27,6 +34,18 @@ to give exact match
 
     ::bash
     $ ack -w {PATTERN}
+
+## check linked library
+on an exacutable or dynamical linked library
+### OSX
+
+    ::bash
+    $ otool -L {target}
+
+### Linux
+
+    ::bash
+    $ ldd {target}
 
 ## free linux cache
 

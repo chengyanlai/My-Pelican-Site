@@ -60,10 +60,7 @@ Stash
 See log
 
     ::bash
-    $ git slog # git log --oneline -20
-    # or
-    $ git last # git log -1 HEAD
-    # on specific file
+    $ glog # git log --oneline --decorate --color --graph
     $ git log -p <filename>
 
 Reset
@@ -76,6 +73,12 @@ List files under version control
 
     ::bash
     $ git ls-files
+
+Checkout particular file(s) or folder from another branch
+
+    ::bash
+    # in brach dev
+    $ git checkout master -- {folder}
 
 ### Posts
 [Git Setup](|filename|../2013/2013-10-17-git-setup.markdown)  

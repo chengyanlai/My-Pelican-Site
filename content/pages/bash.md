@@ -36,7 +36,7 @@ to give exact match
     $ ack -w {PATTERN}
 
 ## check linked library
-on an exacutable or dynamical linked library
+on an executable or dynamical linked library
 ### OSX
 
     ::bash
@@ -56,6 +56,11 @@ on an exacutable or dynamical linked library
 
     ::bash
     $ free -g
+
+## check linux env
+
+    ::bash
+    $ printenv
 
 # Grid Engine
 ## change queue

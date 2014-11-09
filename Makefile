@@ -113,12 +113,12 @@ deploy: publish
 	cd $(PUBLISHDIR) &&	rm -rf *html author blog category feeds pages tag theme
 	cp -rf $(OUTPUTDIR)/* $(PUBLISHDIR)/
 	cd $(PUBLISHDIR) &&	git add . -A
-	cd $(PUBLISHDIR) &&	git ci -m "Update site"
+	cd $(PUBLISHDIR) &&	git commit -m "Update site"
 	cd $(PUBLISHDIR) &&	git push origin master
 
 update:
 	git add -A $(INPUTDIR)/*
-	git ci -m "Update Content Source"
+	git commit -m "Update Content Source"
 	git push origin master
 
 .PHONY: html help clean regenerate serve devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github deploy update

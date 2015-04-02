@@ -62,6 +62,11 @@ on an executable or dynamical linked library
     ::bash
     $ printenv
 
+## show apt history
+
+    ::bash
+    $ less /var/log/apt/history.log
+
 # Grid Engine
 ## change queue
 
